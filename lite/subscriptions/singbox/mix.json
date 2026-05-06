@@ -116,7 +116,7 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 17",
                 "🇩🇪DE | 🔴 | vless | 3YED | 6",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇮🇷IR | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 8",
                 "🇺🇸US | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 3",
@@ -134,8 +134,8 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | trojan | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
+                "🇺🇸US | 🔴 | vless | 3YED | 16",
                 "🇺🇸US | 🔴 | vless | 3YED | 17",
-                "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 5",
@@ -145,7 +145,6 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
-                "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 9",
@@ -184,7 +183,7 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 17",
                 "🇩🇪DE | 🔴 | vless | 3YED | 6",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇮🇷IR | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 8",
                 "🇺🇸US | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 3",
@@ -202,8 +201,8 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | trojan | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
+                "🇺🇸US | 🔴 | vless | 3YED | 16",
                 "🇺🇸US | 🔴 | vless | 3YED | 17",
-                "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 5",
@@ -213,7 +212,6 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
-                "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 9",
@@ -498,7 +496,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 8",
+            "tag": "❔XX | 🔴 | vless | 3YED | 8",
             "type": "vless",
             "server": "cart.ankerios.ir",
             "server_port": 8443,
@@ -897,6 +895,37 @@ https://github.com/3yed-61
             }
         },
         {
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 16",
+            "type": "vless",
+            "server": "104.20.6.134",
+            "server_port": 443,
+            "uuid": "a01daac7-1e65-4645-854d-b47d226f6b08",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "y6-3cj.PAgES.DEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "y6-3cj.PAgES.DEV"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | 3YED | 17",
             "type": "vless",
             "server": "104.20.6.134",
@@ -924,30 +953,6 @@ https://github.com/3yed-61
                 "path": "\/",
                 "headers": {
                     "Host": "sni.111000.indevs.in"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 18",
-            "type": "vless",
-            "server": "vercel.com",
-            "server_port": 443,
-            "uuid": "telegram-dickiriptorbot",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vercel.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
                 }
             }
         },
@@ -1170,37 +1175,6 @@ https://github.com/3yed-61
                 "path": "\/6TvG8D6HimXKgdp2?ed=2560",
                 "headers": {
                     "Host": "104.16.85.3"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "104.20.6.134",
-            "server_port": 8443,
-            "uuid": "6c9d5223-fec2-4eb0-9293-007dead02b77",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "a11.bioritalin.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "a11.bioritalin.ir"
                 }
             }
         },
