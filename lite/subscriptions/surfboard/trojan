@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 35.181.72.23, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 63.180.113.225, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 35.181.72.23, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 63.180.113.225, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇳🇱NL | 🔴 | trojan | 3YED | 4 = trojan, 78.159.131.12, 28259, password = MeaDiUmPlkWbZJ2BON8tz, udp-delay = true, skip-cert-verify = true, sni = ads.x5.ru, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 5 = trojan, 172.64.146.129, 443, password = 6202b230-417c-4d8e-b624-0f71afa9c75d, udp-delay = true, skip-cert-verify = true, sni = sni.111000.dynv6.net, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 15.188.112.222, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 35.181.72.23, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 15.188.112.222, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 35.181.72.23, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇺🇸US | 🔴 | trojan | 3YED | 4 = trojan, 172.64.149.209, 443, password = 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, udp-delay = true, skip-cert-verify = true, sni = vless.lrdxw.club, ws = false
+🇳🇱NL | 🔴 | trojan | 3YED | 5 = trojan, 78.159.131.12, 28259, password = MeaDiUmPlkWbZJ2BON8tz, udp-delay = true, skip-cert-verify = true, sni = ads.x5.ru, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇳🇱NL | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇳🇱NL | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇳🇱NL | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇳🇱NL | 🔴 | trojan | 3YED | 5
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇳🇱NL | 🔴 | trojan | 3YED | 5
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇳🇱NL | 🔴 | trojan | 3YED | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
