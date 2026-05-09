@@ -126,8 +126,8 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 15",
-                "🇮🇷IR | 🔴 | vless | 3YED | 16",
+                "🇮🇷IR | 🔴 | vless | 3YED | 13",
+                "🇮🇷IR | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 5",
@@ -135,13 +135,13 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
-                "🇺🇸US | 🔴 | vless | 3YED | 44",
+                "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 12",
+                "❔XX | 🔴 | vless | 3YED | 10",
+                "🇮🇷IR | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -184,8 +184,8 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 15",
-                "🇮🇷IR | 🔴 | vless | 3YED | 16",
+                "🇮🇷IR | 🔴 | vless | 3YED | 13",
+                "🇮🇷IR | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 5",
@@ -193,13 +193,13 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
-                "🇺🇸US | 🔴 | vless | 3YED | 44",
+                "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 12",
+                "❔XX | 🔴 | vless | 3YED | 10",
+                "🇮🇷IR | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -710,11 +710,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 15",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 13",
             "type": "vless",
-            "server": "snapp.ir",
-            "server_port": 8880,
-            "uuid": "1e03ea78-9599-4578-8469-7ad0f7ba3c3e",
+            "server": "rfiksma.top",
+            "server_port": 52978,
+            "uuid": "83de2233-558d-410b-b86f-3306620ebeda",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -724,11 +724,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 16",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 14",
             "type": "vless",
-            "server": "snapp.ir",
-            "server_port": 80,
-            "uuid": "9abd3240-0dd5-47de-a2be-7a8d4f22a283",
+            "server": "185.143.233.233",
+            "server_port": 2082,
+            "uuid": "621c3631-ed9b-453a-b486-4068212bf483",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -740,7 +740,7 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "snapp.ir"
+                    "Host": "185.143.233.233"
                 }
             }
         },
@@ -915,7 +915,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 44",
+            "tag": "❔XX | 🔴 | vless | 3YED | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1030,7 +1030,38 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 11",
+            "tag": "❔XX | 🔴 | vless | 3YED | 10",
+            "type": "vless",
+            "server": "red.nahidapp.com",
+            "server_port": 443,
+            "uuid": "d52959f7-3c88-41b3-80db-90c3efe146cb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "red.nahidapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/red\/",
+                "headers": {
+                    "Host": "red.nahidapp.com"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 11",
             "type": "vless",
             "server": "185.143.233.235",
             "server_port": 8080,
@@ -1047,27 +1078,6 @@ https://github.com/3yed-61
                 "path": "\/",
                 "headers": {
                     "Host": "185.143.233.235"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 12",
-            "type": "vless",
-            "server": "s3.vahshat.xyz",
-            "server_port": 80,
-            "uuid": "9b6038df-33fb-47df-8b78-9bb8fdec4ca0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws",
-                "headers": {
-                    "Host": "s3.vahshat.xyz"
                 }
             }
         },
