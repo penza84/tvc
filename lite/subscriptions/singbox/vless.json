@@ -126,7 +126,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 17",
+                "🇺🇸US | 🟢 | vless | 3YED | 17",
                 "🇮🇷IR | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
@@ -137,7 +137,7 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 18",
-                "❔XX | 🔴 | vless | 3YED | 19",
+                "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -181,7 +181,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 17",
+                "🇺🇸US | 🟢 | vless | 3YED | 17",
                 "🇮🇷IR | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🟢 | vless | 3YED | 1",
@@ -192,7 +192,7 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 18",
-                "❔XX | 🔴 | vless | 3YED | 19",
+                "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -711,7 +711,31 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 17",
+            "tag": "🇺🇸US | 🟢 | vless | 3YED | 17",
+            "type": "vless",
+            "server": "react.dev",
+            "server_port": 443,
+            "uuid": "c0899a53-cc3b-4066-a3b4-d6d07b4853ee",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "react.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 18",
             "type": "vless",
             "server": "rfiksma.top",
             "server_port": 52978,
@@ -722,27 +746,6 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 18",
-            "type": "vless",
-            "server": "185.143.233.233",
-            "server_port": 2082,
-            "uuid": "621c3631-ed9b-453a-b486-4068212bf483",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.143.233.233"
-                }
             }
         },
         {
@@ -978,7 +981,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 19",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
