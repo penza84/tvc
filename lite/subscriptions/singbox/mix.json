@@ -107,8 +107,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 18",
-                "🇫🇷FR | 🔴 | vless | 3YED | 19",
+                "🇫🇷FR | 🔴 | vless | 3YED | 18",
+                "🇩🇪DE | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
@@ -124,14 +124,14 @@ https://github.com/3yed-61
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 19",
-                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 19",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 19",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 19",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "🇺🇸US | 🔴 | trojan | 3YED | 1",
                 "🇺🇸US | 🔴 | trojan | 3YED | 2",
+                "🇺🇸US | 🔴 | trojan | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🟢 | vless | 3YED | 13",
@@ -151,7 +151,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -173,8 +173,8 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 18",
-                "🇫🇷FR | 🔴 | vless | 3YED | 19",
+                "🇫🇷FR | 🔴 | vless | 3YED | 18",
+                "🇩🇪DE | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
@@ -190,14 +190,14 @@ https://github.com/3yed-61
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 19",
-                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 19",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 19",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 19",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "🇺🇸US | 🔴 | trojan | 3YED | 1",
                 "🇺🇸US | 🔴 | trojan | 3YED | 2",
+                "🇺🇸US | 🔴 | trojan | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🟢 | vless | 3YED | 13",
@@ -217,7 +217,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -278,9 +278,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 18",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 18",
             "type": "vless",
-            "server": "63.182.185.223",
+            "server": "13.36.216.227",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -309,9 +309,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 19",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 19",
             "type": "vless",
-            "server": "35.180.145.201",
+            "server": "63.182.185.223",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -671,7 +671,29 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 18",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+            "type": "trojan",
+            "server": "13.36.216.227",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 19",
             "type": "trojan",
             "server": "63.182.185.223",
             "server_port": 22222,
@@ -693,31 +715,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 19",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 18",
             "type": "trojan",
-            "server": "35.180.145.201",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 18",
-            "type": "trojan",
-            "server": "63.182.185.223",
+            "server": "13.36.216.227",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -737,9 +737,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 19",
+            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 19",
             "type": "trojan",
-            "server": "35.180.145.201",
+            "server": "63.182.185.223",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -793,7 +793,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | 3YED | 1",
+            "tag": "🇺🇸US | 🔴 | trojan | 3YED | 2",
             "type": "trojan",
             "server": "104.18.12.149",
             "server_port": 443,
@@ -812,7 +812,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | trojan | 3YED | 2",
+            "tag": "🇺🇸US | 🔴 | trojan | 3YED | 3",
             "type": "trojan",
             "server": "172.64.152.23",
             "server_port": 443,
@@ -1298,7 +1298,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "8.6.112.6",
             "server_port": 443,
