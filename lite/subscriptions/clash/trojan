@@ -118,12 +118,12 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 18","type":"trojan","server":"52.47.129.227","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 19","type":"trojan","server":"63.184.179.58","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 18","type":"trojan","server":"52.47.129.227","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 19","type":"trojan","server":"63.184.179.58","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 3","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 4","type":"trojan","server":"162.159.36.5","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 18","type":"trojan","server":"15.224.29.207","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"52.47.129.227","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 18","type":"trojan","server":"15.224.29.207","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"52.47.129.227","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"8ZQi@198.12.144.253:443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 3","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 4","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -131,11 +131,11 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 3'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '8ZQi@198.12.144.253:443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇳🇱NL | 🔴 | trojan | 3YED | 4'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -143,22 +143,22 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 3'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '8ZQi@198.12.144.253:443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇳🇱NL | 🔴 | trojan | 3YED | 4'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 3'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '8ZQi@198.12.144.253:443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇳🇱NL | 🔴 | trojan | 3YED | 4'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
