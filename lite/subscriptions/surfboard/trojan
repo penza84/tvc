@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.38.246.169, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 13.36.88.140, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.38.246.169, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 13.36.88.140, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 4 = trojan, 162.159.153.212, 2087, password = r137979f, udp-delay = true, skip-cert-verify = true, sni = sheleqaz.emotionreza.workers.dev, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 5 = trojan, 162.159.152.2, 443, password = 6202b230-417c-4d8e-b624-0f71afa9c75d, udp-delay = true, skip-cert-verify = true, sni = sni.111000.dynv6.net, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 15.224.89.79, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 52.58.203.172, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 15.224.89.79, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 52.58.203.172, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🔴 | trojan | 3YED | 5 = trojan, 79.127.82.170, 443, password = 2a599135-886f-4359-bf68-0993baa990f1, udp-delay = true, skip-cert-verify = false, sni = wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd, ws = false
+❔XX | 🔴 | trojan | 3YED | 6 = trojan, 162.159.153.212, 2087, password = r137979f, udp-delay = true, skip-cert-verify = true, sni = sheleqaz.emotionreza.workers.dev, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
