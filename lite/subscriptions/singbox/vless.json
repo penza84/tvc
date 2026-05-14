@@ -106,8 +106,8 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | 🔴 | vless | 3YED | 18",
-                "🇩🇪DE | 🔴 | vless | 3YED | 19",
+                "🇩🇪DE | 🔴 | vless | 3YED | 18",
+                "🇫🇷FR | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
@@ -141,7 +141,7 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 3",
                 "🇮🇷IR | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇮🇷IR | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -165,8 +165,8 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | 🔴 | vless | 3YED | 18",
-                "🇩🇪DE | 🔴 | vless | 3YED | 19",
+                "🇩🇪DE | 🔴 | vless | 3YED | 18",
+                "🇫🇷FR | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
@@ -200,7 +200,7 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 3",
                 "🇮🇷IR | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇮🇷IR | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -240,9 +240,9 @@ https://github.com/3yed-61
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 18",
             "type": "vless",
-            "server": "15.224.89.79",
+            "server": "63.180.116.50",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -271,9 +271,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 19",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 19",
             "type": "vless",
-            "server": "52.58.203.172",
+            "server": "15.224.89.79",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -517,6 +517,27 @@ https://github.com/3yed-61
         {
             "tag": "🇮🇷IR | 🔴 | vless | 3YED | 2",
             "type": "vless",
+            "server": "snapp.ir",
+            "server_port": 80,
+            "uuid": "22e60128-48d5-47e0-9d6c-8eea01c9dc32",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "snapp.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 3",
+            "type": "vless",
             "server": "adler-1g.adelshoop.net",
             "server_port": 80,
             "uuid": "59bc19e5-9384-45ea-99c6-0fc412975eee",
@@ -532,27 +553,6 @@ https://github.com/3yed-61
                 "path": "\/",
                 "headers": {
                     "Host": "adler-1g.adelshoop.net"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 3",
-            "type": "vless",
-            "server": "digipay.ir",
-            "server_port": 80,
-            "uuid": "09ba8308-c50b-4fdc-adf7-cfe0d7ed00f3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "digipay.ir"
                 }
             }
         },
@@ -1071,7 +1071,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 7",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "snapp.ir",
             "server_port": 80,
