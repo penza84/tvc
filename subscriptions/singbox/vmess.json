@@ -120,11 +120,12 @@
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
+                "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🚩CF | 🟢 | vmess | 3YED | 5",
-                "🇮🇷IR | 🟢 | vmess | 3YED | 7"
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ]
         },
         {
@@ -146,11 +147,12 @@
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
+                "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🚩CF | 🟢 | vmess | 3YED | 5",
-                "🇮🇷IR | 🟢 | vmess | 3YED | 7"
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -396,6 +398,23 @@
         {
             "tag": "❔XX | 🟢 | vmess | 3YED | 0",
             "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 1",
+            "type": "vmess",
             "server": "www.arvancloud.ir",
             "server_port": 2082,
             "uuid": "f4ff777e-9adb-43f8-84da-5866f150ee86",
@@ -568,7 +587,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vmess | 3YED | 7",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 7",
             "type": "vmess",
             "server": "193.151.128.37",
             "server_port": 3131,
