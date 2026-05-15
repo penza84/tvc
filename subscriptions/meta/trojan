@@ -160,12 +160,12 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | 3YED | 17","type":"trojan","server":"3.65.55.47","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 18","type":"trojan","server":"51.45.38.2","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 19","type":"trojan","server":"13.37.158.16","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 3","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 4","type":"trojan","server":"104.18.16.56","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"152.53.200.163","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 6","type":"trojan","server":"104.17.185.207","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 7","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 8","type":"trojan","server":"92.243.74.253","port":443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 0","type":"trojan","server":"162.159.36.20","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 4","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 5","type":"trojan","server":"104.18.16.56","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"152.53.200.163","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 7","type":"trojan","server":"104.17.185.207","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 8","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -212,12 +212,12 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | 3YED | 17'
       - '❔XX | 🟢 | trojan | 3YED | 18'
       - '❔XX | 🟢 | trojan | 3YED | 19'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '🚩CF | 🔴 | trojan | 3YED | 8'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -264,12 +264,12 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | 3YED | 17'
       - '❔XX | 🟢 | trojan | 3YED | 18'
       - '❔XX | 🟢 | trojan | 3YED | 19'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '🚩CF | 🔴 | trojan | 3YED | 8'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -315,12 +315,12 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | 3YED | 17'
       - '❔XX | 🟢 | trojan | 3YED | 18'
       - '❔XX | 🟢 | trojan | 3YED | 19'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '🚩CF | 🔴 | trojan | 3YED | 8'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
