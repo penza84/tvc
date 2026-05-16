@@ -123,10 +123,9 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 31",
-                "🇮🇷IR | 🔴 | vless | 3YED | 32",
+                "🇮🇷IR | 🔴 | vless | 3YED | 33",
+                "🇮🇷IR | 🔴 | vless | 3YED | 34",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 11",
                 "🇮🇷IR | 🔴 | vless | 3YED | 12",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
@@ -136,9 +135,9 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇬🇧GB | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 2",
@@ -175,10 +174,9 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 12",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
-                "🇮🇷IR | 🔴 | vless | 3YED | 31",
-                "🇮🇷IR | 🔴 | vless | 3YED | 32",
+                "🇮🇷IR | 🔴 | vless | 3YED | 33",
+                "🇮🇷IR | 🔴 | vless | 3YED | 34",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇺🇸US | 🟢 | vless | 3YED | 1",
                 "🇮🇷IR | 🔴 | vless | 3YED | 11",
                 "🇮🇷IR | 🔴 | vless | 3YED | 12",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
@@ -188,9 +186,9 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇬🇧GB | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 2",
@@ -652,11 +650,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 31",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 33",
             "type": "vless",
-            "server": "185.143.235.201",
-            "server_port": 80,
-            "uuid": "9012f0c7-74d8-491f-bfb1-47e2574cfa99",
+            "server": "snapp.ir",
+            "server_port": 8080,
+            "uuid": "eaaebf33-04a2-41bd-9662-be086b8d5f1d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -668,16 +666,16 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "185.143.235.201"
+                    "Host": "snapp.ir"
                 }
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 32",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 34",
             "type": "vless",
-            "server": "ger1bot-ws.headerip.com",
+            "server": "snapp.ir",
             "server_port": 80,
-            "uuid": "7b048a03-a987-4957-9171-4475094dc7d6",
+            "uuid": "a0064597-a864-42db-a26c-5b4309ebffbc",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -689,7 +687,7 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "ger1bot-ws.headerip.com"
+                    "Host": "snapp.ir"
                 }
             }
         },
@@ -721,37 +719,6 @@ https://github.com/3yed-61
                 "path": "\/ws",
                 "headers": {
                     "Host": "cdn.hosseincapri.sbs"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | 3YED | 1",
-            "type": "vless",
-            "server": "104.20.6.134",
-            "server_port": 2096,
-            "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sni.111000.indevs.in",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "sni.111000.indevs.in"
                 }
             }
         },
@@ -971,7 +938,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "45.85.118.209",
             "server_port": 443,
@@ -1031,7 +998,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
+            "tag": "❔XX | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
