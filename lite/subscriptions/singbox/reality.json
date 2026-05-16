@@ -108,10 +108,11 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "🇳🇱NL | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🔴 | vless | 3YED | 83",
+                "🇨🇭CH | 🟢 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
@@ -123,10 +124,11 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "🇳🇱NL | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🔴 | vless | 3YED | 83",
+                "🇨🇭CH | 🟢 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
@@ -210,6 +212,35 @@ https://github.com/3yed-61
             }
         },
         {
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 12",
+            "type": "vless",
+            "server": "51.158.206.93",
+            "server_port": 23576,
+            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "fuck.rkn",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
+                    "short_id": "01"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | 3YED | 44",
             "type": "vless",
             "server": "ec76.kiava.fun",
@@ -268,7 +299,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 2",
+            "tag": "🇨🇭CH | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "185.227.149.123",
             "server_port": 443,
@@ -297,7 +328,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 83",
+            "tag": "❔XX | 🔴 | vless | 3YED | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
