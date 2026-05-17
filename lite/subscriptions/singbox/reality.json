@@ -110,10 +110,10 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "🇷🇺RU | 🟢 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇩🇪DE | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ]
@@ -126,10 +126,10 @@ https://github.com/3yed-61
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "🇷🇺RU | 🟢 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇩🇪DE | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ],
@@ -270,7 +270,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
+            "tag": "❔XX | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -299,7 +299,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
             "type": "vless",
             "server": "3.cdnconn.com",
             "server_port": 23335,
@@ -364,7 +364,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 84",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
