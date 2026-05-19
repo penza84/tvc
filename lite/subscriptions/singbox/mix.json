@@ -106,7 +106,7 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇫🇷FR | 🔴 | vless | 3YED | 18",
+                "🇩🇪DE | 🔴 | vless | 3YED | 18",
                 "🇫🇷FR | 🔴 | vless | 3YED | 19",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
                 "🇺🇸US | 🔴 | vless | 3YED | 16",
@@ -119,25 +119,27 @@ https://github.com/3yed-61
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
                 "🇫🇷FR | 🟢 | trojan | 3YED | 19",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
                 "🇫🇷FR | 🟢 | trojan | 3YED | 19",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 8",
-                "8ZQi@212.34.151.109:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
+                "8ZQi@72.56.103.129:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 8",
+                "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🔴 | vless | 3YED | 14",
                 "🇮🇷IR | 🔴 | vless | 3YED | 30",
                 "🇮🇷IR | 🔴 | vless | 3YED | 31",
+                "🇮🇷IR | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 10",
-                "🇮🇷IR | 🔴 | vless | 3YED | 11",
+                "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
-                "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🇺🇸US | 🟢 | vmess | 3YED | 5",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
@@ -146,8 +148,8 @@ https://github.com/3yed-61
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 83",
-                "🇩🇪DE | 🔴 | vless | 3YED | 84",
+                "🇩🇪DE | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
@@ -160,7 +162,7 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇫🇷FR | 🔴 | vless | 3YED | 18",
+                "🇩🇪DE | 🔴 | vless | 3YED | 18",
                 "🇫🇷FR | 🔴 | vless | 3YED | 19",
                 "🇵🇹PT | 🔴 | vless | 3YED | 6",
                 "🇺🇸US | 🔴 | vless | 3YED | 16",
@@ -173,25 +175,27 @@ https://github.com/3yed-61
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
                 "🇫🇷FR | 🟢 | trojan | 3YED | 19",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+                "🇩🇪DE | 🟢 | trojan | 3YED | 18",
                 "🇫🇷FR | 🟢 | trojan | 3YED | 19",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 8",
-                "8ZQi@212.34.151.109:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
+                "8ZQi@72.56.103.129:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 8",
+                "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🔴 | vless | 3YED | 14",
                 "🇮🇷IR | 🔴 | vless | 3YED | 30",
                 "🇮🇷IR | 🔴 | vless | 3YED | 31",
+                "🇮🇷IR | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 10",
-                "🇮🇷IR | 🔴 | vless | 3YED | 11",
+                "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "🇮🇷IR | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
                 "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
-                "🇮🇷IR | 🔴 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🇺🇸US | 🟢 | vmess | 3YED | 5",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
@@ -200,8 +204,8 @@ https://github.com/3yed-61
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 83",
-                "🇩🇪DE | 🔴 | vless | 3YED | 84",
+                "🇩🇪DE | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
@@ -230,9 +234,9 @@ https://github.com/3yed-61
             "type": "dns"
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 18",
             "type": "vless",
-            "server": "15.237.55.229",
+            "server": "63.183.179.231",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -263,7 +267,7 @@ https://github.com/3yed-61
         {
             "tag": "🇫🇷FR | 🔴 | vless | 3YED | 19",
             "type": "vless",
-            "server": "13.38.241.41",
+            "server": "15.237.55.229",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -546,9 +550,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 18",
             "type": "trojan",
-            "server": "15.237.55.229",
+            "server": "63.183.179.231",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -570,7 +574,7 @@ https://github.com/3yed-61
         {
             "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 19",
             "type": "trojan",
-            "server": "13.38.241.41",
+            "server": "15.237.55.229",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -590,9 +594,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 18",
+            "tag": "🇩🇪DE | 🟢 | trojan | 3YED | 18",
             "type": "trojan",
-            "server": "15.237.55.229",
+            "server": "63.183.179.231",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -614,7 +618,7 @@ https://github.com/3yed-61
         {
             "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 19",
             "type": "trojan",
-            "server": "13.38.241.41",
+            "server": "15.237.55.229",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -668,7 +672,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 8",
+            "tag": "8ZQi@72.56.103.129:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 8",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -680,7 +684,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "8ZQi@212.34.151.109:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
+            "tag": "8ZQi@62.84.98.74:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇳🇱NL | 🔴 | trojan | 3YED | 9",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -756,6 +760,37 @@ https://github.com/3yed-61
         {
             "tag": "🇮🇷IR | 🔴 | vless | 3YED | 30",
             "type": "vless",
+            "server": "www.varzesh3.com",
+            "server_port": 443,
+            "uuid": "c7de7bde-7bda-4266-92fa-ca6a9ebb5968",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "androidproject.amiramskow.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "androidproject.amiramskow.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 31",
+            "type": "vless",
             "server": "SnaPp.ir",
             "server_port": 2082,
             "uuid": "ca807778-9071-4ac0-b783-fb43724348e6",
@@ -775,11 +810,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 31",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 9",
             "type": "vless",
-            "server": "snapp.ir",
-            "server_port": 80,
-            "uuid": "8e851df5-9dbb-46bd-acd5-d6d774e38889",
+            "server": "185.143.233.5",
+            "server_port": 2082,
+            "uuid": "a3087447-269f-43c5-a5f9-d5686f452612",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -791,7 +826,7 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "snapp.ir"
+                    "Host": "185.143.233.5"
                 }
             }
         },
@@ -817,11 +852,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 11",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 0",
             "type": "vless",
-            "server": "Tapsi.ir",
-            "server_port": 8080,
-            "uuid": "f937e9ea-ab6f-4a1b-8212-c469a42f7839",
+            "server": "fl1bot-ws.headerip.com",
+            "server_port": 80,
+            "uuid": "9ad406c3-3a40-44f8-b985-92b7e554b150",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -831,9 +866,40 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/cdn",
+                "path": "\/",
                 "headers": {
-                    "Host": "Tapsi.ir"
+                    "Host": "fl1bot-ws.headerip.com"
+                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "meliplus.navixx.shop",
+            "server_port": 443,
+            "uuid": "3212a762-6698-4242-aec3-17da724ab6dd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "meliplus.navixx.shop",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "meliplus.navixx.shop"
                 }
             }
         },
@@ -942,7 +1008,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 0",
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "cdn3.whitepol4.ir",
             "server_port": 2052,
@@ -1176,7 +1242,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 83",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -1212,7 +1278,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 84",
+            "tag": "❔XX | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
