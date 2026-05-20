@@ -11,14 +11,10 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇺🇸US | 🟢 | ss | 3YED | 5 = ss, 45.87.175.171, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
-🇹🇷TR | 🟢 | ss | 3YED | 6 = ss, 193.46.56.185, 6683, encrypt-method = chacha20-ietf-poly1305, password = iw8GoN42dciNxDBd0RwAdL
-🇫🇮FI | 🟢 | ss | 3YED | 7 = ss, 83.147.216.70, 64519, encrypt-method = chacha20-ietf-poly1305, password = UlT89D0rvcr05tKft1NB5a
-🇳🇱NL | 🟢 | ss | 3YED | 5 = ss, 164.92.156.41, 24206, encrypt-method = chacha20-ietf-poly1305, password = zI7kiNZ0UfV9cXB73a4nRD
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇺🇸US | 🟢 | ss | 3YED | 5,🇹🇷TR | 🟢 | ss | 3YED | 6,🇫🇮FI | 🟢 | ss | 3YED | 7,🇳🇱NL | 🟢 | ss | 3YED | 5
-URL-TEST = url-test,🇺🇸US | 🟢 | ss | 3YED | 5,🇹🇷TR | 🟢 | ss | 3YED | 6,🇫🇮FI | 🟢 | ss | 3YED | 7,🇳🇱NL | 🟢 | ss | 3YED | 5
-FALLBACK = fallback,🇺🇸US | 🟢 | ss | 3YED | 5,🇹🇷TR | 🟢 | ss | 3YED | 6,🇫🇮FI | 🟢 | ss | 3YED | 7,🇳🇱NL | 🟢 | ss | 3YED | 5
+MANUAL = select,URL-TEST,FALLBACK
+URL-TEST = url-test
+FALLBACK = fallback
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
