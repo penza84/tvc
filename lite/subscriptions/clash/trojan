@@ -118,10 +118,10 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 18","type":"trojan","server":"3.77.116.109","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"51.44.62.234","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 18","type":"trojan","server":"3.77.116.109","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"51.44.62.234","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 18","type":"trojan","server":"3.122.111.21","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 19","type":"trojan","server":"3.77.116.109","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 18","type":"trojan","server":"3.122.111.21","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 19","type":"trojan","server":"3.77.116.109","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 9","type":"trojan","server":"104.17.101.139","port":443,"udp":false,"password":"6202b230-417c-4d8e-b624-0f71afa9c75d","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"sni.111000.dynv6.net"}
   - {"name":"8ZQi@89.107.10.22:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 10","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
@@ -131,9 +131,9 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 9'
       - '8ZQi@89.107.10.22:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 10'
   - name: URL-TEST
@@ -143,9 +143,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 9'
       - '8ZQi@89.107.10.22:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 10'
   - name: FALLBACK
@@ -154,9 +154,9 @@ proxy-groups:
     interval: 60
     proxies:
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
+      - '🇩🇪DE | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 9'
       - '8ZQi@89.107.10.22:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇩🇪DE | 🔴 | trojan | 3YED | 10'
 rules:
