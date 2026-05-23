@@ -158,15 +158,15 @@ proxies:
   - {"name":"❔XX | 🟢 | trojan | 3YED | 17","type":"trojan","server":"35.156.35.32","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 18","type":"trojan","server":"15.237.38.184","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 19","type":"trojan","server":"13.39.166.105","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"176.57.212.248","port":2053,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"46.229.253.222","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"85.155.98.71","port":2053,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 3","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 4","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"🔒"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"45.12.146.179","port":4443,"udp":false,"password":"strong-secret-pass-777","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"152.53.200.69","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 9","type":"trojan","server":"hl-freedom-1.undef.network","port":443,"udp":false,"password":"JaFKnqNcvnBT63t3rquidGsln","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"194.164.205.110","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"176.57.212.248","port":2053,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"46.229.253.222","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"85.155.98.71","port":2053,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 4","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 5","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"🔒"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"45.12.146.179","port":4443,"udp":false,"password":"strong-secret-pass-777","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 8","type":"trojan","server":"152.53.200.69","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -216,12 +216,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '❔XX | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -271,12 +271,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '❔XX | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -325,12 +325,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
-      - '🚩CF | 🔴 | trojan | 3YED | 3'
+      - '❔XX | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
+      - '🚩CF | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
