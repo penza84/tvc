@@ -110,10 +110,10 @@
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "🇬🇧GB | 🔴 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 9",
-                "🇩🇪DE | 🔴 | vless | 3YED | 10",
+                "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 18",
                 "❔XX | 🟢 | vless | 3YED | 20",
@@ -169,10 +169,10 @@
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "🇬🇧GB | 🔴 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 9",
-                "🇩🇪DE | 🔴 | vless | 3YED | 10",
+                "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 18",
                 "❔XX | 🟢 | vless | 3YED | 20",
@@ -398,7 +398,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 6",
+            "tag": "❔XX | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "143.110.169.55",
             "server_port": 40987,
@@ -427,7 +427,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 8",
+            "tag": "❔XX | 🟢 | vless | 3YED | 8",
             "type": "vless",
             "server": "159.223.4.137",
             "server_port": 38915,
@@ -456,7 +456,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 9",
+            "tag": "❔XX | 🔴 | vless | 3YED | 9",
             "type": "vless",
             "server": "168.119.110.229",
             "server_port": 56372,
@@ -485,7 +485,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 10",
+            "tag": "❔XX | 🔴 | vless | 3YED | 10",
             "type": "vless",
             "server": "116.202.99.47",
             "server_port": 56372,
