@@ -108,8 +108,8 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "❔XX | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "🇩🇪DE | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
@@ -121,8 +121,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "❔XX | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "🇩🇪DE | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
@@ -206,7 +206,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
+            "tag": "❔XX | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -235,7 +235,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 83",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
