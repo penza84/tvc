@@ -125,7 +125,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 18","type":"trojan","server":"15.237.38.184","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"13.39.166.105","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"162.159.153.212","port":2087,"udp":false,"password":"r137979f","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"sheleqaz.emotionreza.workers.dev"}
-  - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 6","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"🔒"}
+  - {"name":"🇦🇱AL | 🔴 | trojan | 3YED | 6","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"🔒"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -137,7 +137,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 6'
+      - '🇦🇱AL | 🔴 | trojan | 3YED | 6'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -149,7 +149,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 6'
+      - '🇦🇱AL | 🔴 | trojan | 3YED | 6'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -160,7 +160,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 6'
+      - '🇦🇱AL | 🔴 | trojan | 3YED | 6'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
