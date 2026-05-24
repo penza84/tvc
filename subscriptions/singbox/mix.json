@@ -140,13 +140,13 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 6",
-                "🇺🇸US | 🔴 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "🇺🇸US | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 13",
-                "🇺🇸US | 🔴 | vless | 3YED | 14",
+                "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 17",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -166,6 +166,7 @@
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
@@ -234,14 +235,16 @@
                 "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
-                "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 0",
-                "❔XX | 🔴 | trojan | 3YED | 1",
-                "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
-                "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 3",
-                "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
-                "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
-                "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 6",
-                "🚩CF | 🔴 | trojan | 3YED | 7",
+                "❔XX | 🔴 | trojan | 3YED | 0",
+                "8ZQi@85.155.98.71:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 1",
+                "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
+                "❔XX | 🔴 | trojan | 3YED | 3",
+                "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
+                "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
+                "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 6",
+                "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 7",
+                "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 8",
+                "🚩CF | 🔴 | trojan | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -277,7 +280,7 @@
                 "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
@@ -373,6 +376,7 @@
                 "❔XX | 🔴 | vless | 3YED | 42",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -482,13 +486,13 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 6",
-                "🇺🇸US | 🔴 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "🇺🇸US | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 13",
-                "🇺🇸US | 🔴 | vless | 3YED | 14",
+                "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 17",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -508,6 +512,7 @@
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
@@ -576,14 +581,16 @@
                 "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
-                "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 0",
-                "❔XX | 🔴 | trojan | 3YED | 1",
-                "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
-                "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 3",
-                "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
-                "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
-                "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 6",
-                "🚩CF | 🔴 | trojan | 3YED | 7",
+                "❔XX | 🔴 | trojan | 3YED | 0",
+                "8ZQi@85.155.98.71:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 1",
+                "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
+                "❔XX | 🔴 | trojan | 3YED | 3",
+                "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
+                "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
+                "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 6",
+                "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 7",
+                "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 8",
+                "🚩CF | 🔴 | trojan | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -619,7 +626,7 @@
                 "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
@@ -715,6 +722,7 @@
                 "❔XX | 🔴 | vless | 3YED | 42",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -1789,7 +1797,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 7",
+            "tag": "❔XX | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1873,7 +1881,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 14",
+            "tag": "❔XX | 🔴 | vless | 3YED | 14",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2362,6 +2370,27 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "snapp.ir",
+            "server_port": 2095,
+            "uuid": "5bc4971a-e0b6-4723-985c-801b1c80f23a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/wskhan",
+                "headers": {
+                    "Host": "snapp.ir"
+                }
             }
         },
         {
@@ -3805,7 +3834,19 @@
             }
         },
         {
-            "tag": "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 0",
+            "tag": "❔XX | 🔴 | trojan | 3YED | 0",
+            "type": "trojan",
+            "server": "yespaintstudio.rav-kraski.ru",
+            "server_port": 50824,
+            "password": "7aXwJPnpAJ",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "8ZQi@85.155.98.71:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 1",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3817,7 +3858,19 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | trojan | 3YED | 1",
+            "tag": "8ZQi@188.226.133.127:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
+            "type": "trojan",
+            "server": "8r<[9'l6hAO",
+            "server_port": 0,
+            "password": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | trojan | 3YED | 3",
             "type": "trojan",
             "server": "78.159.131.12",
             "server_port": 28259,
@@ -3829,7 +3882,7 @@
             }
         },
         {
-            "tag": "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 2",
+            "tag": "8ZQi@194.164.205.110:8443?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3841,7 +3894,7 @@
             }
         },
         {
-            "tag": "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 3",
+            "tag": "8ZQi@176.57.212.248:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3853,7 +3906,7 @@
             }
         },
         {
-            "tag": "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 4",
+            "tag": "8ZQi@46.229.253.222:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 6",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3865,7 +3918,7 @@
             }
         },
         {
-            "tag": "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 5",
+            "tag": "8ZQi@85.155.98.71:2053?host=Koma-YT.PAGeS.Dev&path=\/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#❔XX | 🔴 | trojan | 3YED | 7",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3877,7 +3930,7 @@
             }
         },
         {
-            "tag": "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 6",
+            "tag": "8ZQi@104.19.229.21:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=\/tr&sni=Koma-YT.PAGeS.Dev&type=ws#🚩CF | 🔴 | trojan | 3YED | 8",
             "type": "trojan",
             "server": "8r<[9'l6hAO",
             "server_port": 0,
@@ -3889,7 +3942,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | trojan | 3YED | 7",
+            "tag": "🚩CF | 🔴 | trojan | 3YED | 9",
             "type": "trojan",
             "server": "162.159.153.212",
             "server_port": 2087,
@@ -4788,27 +4841,6 @@
         {
             "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
-            "server": "varzesh3.com",
-            "server_port": 80,
-            "uuid": "941c30a8-3d4b-4db4-b59a-49449a6fb65a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws",
-                "headers": {
-                    "Host": "varzesh3.com"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
-            "type": "vless",
             "server": "meli.masterdadeh.ir",
             "server_port": 80,
             "uuid": "5b34187f-f811-58b1-7e68-3cc63df5df3b",
@@ -4828,7 +4860,28 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "varzesh3.com",
+            "server_port": 80,
+            "uuid": "941c30a8-3d4b-4db4-b59a-49449a6fb65a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ws",
+                "headers": {
+                    "Host": "varzesh3.com"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "194.59.171.150",
             "server_port": 8080,
@@ -7598,6 +7651,37 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "camp.nahidapp.com",
+            "server_port": 443,
+            "uuid": "799f939b-964b-4416-84ac-18a6ace7fe70",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "camp.nahidapp.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/IF_VPN_Bot",
+                "headers": {
+                    "Host": "camp.nahidapp.com"
+                }
             }
         },
         {
