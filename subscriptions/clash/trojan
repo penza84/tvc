@@ -161,7 +161,6 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"77.221.156.92","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"216.126.237.69","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"77.221.158.36","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"45.38.143.97","port":8443,"udp":false,"password":"8r%3C%5B9%27l6hAO%238ZQi","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Koma-YT.PAGeS.Dev"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 0","type":"trojan","server":"8.6.112.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
 proxy-groups:
   - name: MANUAL
@@ -212,7 +211,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
   - name: URL-TEST
     type: url-test
@@ -263,7 +261,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
   - name: FALLBACK
     type: fallback
@@ -313,7 +310,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
