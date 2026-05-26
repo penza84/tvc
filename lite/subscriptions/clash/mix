@@ -125,7 +125,6 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"8ZQi@77.221.158.36:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 6","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"8ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 7","type":"trojan","server":"8r<[9'l6hAO","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 0","type":"trojan","server":"8.6.112.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
 proxy-groups:
@@ -141,7 +140,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '8ZQi@77.221.158.36:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 6'
-      - '8ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
   - name: URL-TEST
@@ -157,7 +155,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '8ZQi@77.221.158.36:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 6'
-      - '8ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
   - name: FALLBACK
@@ -172,7 +169,6 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '8ZQi@77.221.158.36:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 6'
-      - '8ZQi@45.38.143.97:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇫🇮FI | 🔴 | trojan | 3YED | 7'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
 rules:
