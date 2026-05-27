@@ -106,7 +106,7 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇬🇪GE | 🟢 | vless | 3YED | 3",
+                "🇬🇪GE | 🟢 | vless | 3YED | 4",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -122,7 +122,7 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇬🇪GE | 🟢 | vless | 3YED | 3",
+                "🇬🇪GE | 🟢 | vless | 3YED | 4",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -154,7 +154,7 @@ https://github.com/3yed-61
             "type": "dns"
         },
         {
-            "tag": "🇬🇪GE | 🟢 | vless | 3YED | 3",
+            "tag": "🇬🇪GE | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "scan.capitaledge.blog",
             "server_port": 8443,
