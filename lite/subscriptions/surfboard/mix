@@ -11,17 +11,17 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.37.207.166, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 63.176.4.250, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.37.207.166, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 19 = trojan, 63.176.4.250, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.38.175.41, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 13.37.207.166, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.38.175.41, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 19 = trojan, 13.37.207.166, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5 = trojan, 8r<[9'l6hAO, , password = , udp-delay = true, skip-cert-verify = false, ws = false
 ❔XX | 🟢 | trojan | 3YED | 0 = trojan, 8.6.112.6, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmloud.com, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇫🇷FR | 🟢 | trojan | 3YED | 19,8ZQi@216.126.237.69:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
