@@ -111,7 +111,7 @@
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 6",
@@ -141,6 +141,7 @@
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -176,7 +177,7 @@
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 6",
@@ -206,6 +207,7 @@
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -439,7 +441,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "91.225.217.26",
             "server_port": 443,
@@ -1340,6 +1342,35 @@
                     "enabled": true,
                     "public_key": "ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw",
                     "short_id": "aabbccdd"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "5.75.203.82",
+            "server_port": 19562,
+            "uuid": "71026fa9-703f-4e66-93b2-7ef1173f3fdc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com:443",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "49r73mAf_oqz13QPNzCNDpSHwQOSrtWSM1y9ytZASV4",
+                    "short_id": "fd36e1fafcc52b39"
                 }
             }
         },
