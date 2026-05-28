@@ -11,15 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🟢 | trojan | 3YED | 17 = trojan, 3.65.4.209, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.37.60.29, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 17 = trojan, 3.65.4.209, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 18 = trojan, 13.37.60.29, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇳🇱NL | 🔴 | trojan | 3YED | 1 = trojan, 78.159.131.12, 28259, password = MeaDiUmPlkWbZJ2BON8tz, udp-delay = true, skip-cert-verify = true, sni = 🔒, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 16 = trojan, 18.157.122.11, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 17 = trojan, 35.159.190.54, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 16 = trojan, 18.157.122.11, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 17 = trojan, 35.159.190.54, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🔴 | trojan | 3YED | 3 = trojan, 15.237.158.158, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = true, sni = trojan.burgerip.co.uk, ws = false
+🇳🇱NL | 🔴 | trojan | 3YED | 4 = trojan, 78.159.131.12, 28259, password = MeaDiUmPlkWbZJ2BON8tz, udp-delay = true, skip-cert-verify = true, sni = 🔒, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇳🇱NL | 🔴 | trojan | 3YED | 1
-URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇳🇱NL | 🔴 | trojan | 3YED | 1
-FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 18,🇳🇱NL | 🔴 | trojan | 3YED | 1
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🔴 | trojan | 3YED | 3,🇳🇱NL | 🔴 | trojan | 3YED | 4
+URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🔴 | trojan | 3YED | 3,🇳🇱NL | 🔴 | trojan | 3YED | 4
+FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇩🇪DE | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🔴 | trojan | 3YED | 3,🇳🇱NL | 🔴 | trojan | 3YED | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
