@@ -122,7 +122,8 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"15.188.165.183","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 18","type":"trojan","server":"63.183.106.71","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 19","type":"trojan","server":"15.188.165.183","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 3","type":"trojan","server":"141.101.90.101","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 4","type":"trojan","server":"www.calmlunch.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"141.101.90.101","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -133,7 +134,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -144,7 +146,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -154,7 +157,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 18'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 19'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
