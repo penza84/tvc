@@ -112,20 +112,19 @@
                 "🚩CF | 🔴 | vless | 3YED | 4",
                 "🚩CF | 🔴 | vless | 3YED | 6",
                 "🇫🇷FR | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "🇫🇷FR | 🔴 | vless | 3YED | 1",
                 "🇩🇪DE | 🔴 | vless | 3YED | 2",
-                "🇫🇷FR | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🔴 | vless | 3YED | 3",
                 "🇫🇷FR | 🔴 | vless | 3YED | 4",
-                "🇩🇪DE | 🔴 | vless | 3YED | 5",
+                "🇫🇷FR | 🔴 | vless | 3YED | 5",
                 "🇩🇪DE | 🔴 | vless | 3YED | 6",
-                "🇫🇷FR | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 7",
                 "🇫🇷FR | 🔴 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 9",
-                "🇫🇷FR | 🔴 | vless | 3YED | 10",
-                "🇫🇷FR | 🔴 | vless | 3YED | 12",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "🇫🇷FR | 🔴 | vless | 3YED | 15",
-                "🇩🇪DE | 🔴 | vless | 3YED | 16",
+                "🇫🇷FR | 🔴 | vless | 3YED | 9",
+                "🇩🇪DE | 🔴 | vless | 3YED | 10",
+                "🇫🇷FR | 🔴 | vless | 3YED | 11",
+                "🇫🇷FR | 🔴 | vless | 3YED | 13",
+                "🇩🇪DE | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇨🇦CA | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
@@ -141,7 +140,7 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 6",
+                "🇺🇸US | 🔴 | vless | 3YED | 6",
                 "🇺🇸US | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 10",
@@ -171,9 +170,6 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
-                "🚩CF | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -197,10 +193,9 @@
                 "❔XX | 🟢 | trojan | 3YED | 8",
                 "❔XX | 🟢 | trojan | 3YED | 9",
                 "❔XX | 🟢 | trojan | 3YED | 10",
-                "❔XX | 🟢 | trojan | 3YED | 12",
+                "❔XX | 🟢 | trojan | 3YED | 11",
                 "❔XX | 🟢 | trojan | 3YED | 13",
-                "❔XX | 🟢 | trojan | 3YED | 15",
-                "❔XX | 🟢 | trojan | 3YED | 16",
+                "❔XX | 🟢 | trojan | 3YED | 14",
                 "❔XX | 🟢 | trojan | 3YED | 0",
                 "❔XX | 🟢 | trojan | 3YED | 1",
                 "❔XX | 🟢 | trojan | 3YED | 2",
@@ -212,10 +207,9 @@
                 "❔XX | 🟢 | trojan | 3YED | 8",
                 "❔XX | 🟢 | trojan | 3YED | 9",
                 "❔XX | 🟢 | trojan | 3YED | 10",
-                "❔XX | 🟢 | trojan | 3YED | 12",
+                "❔XX | 🟢 | trojan | 3YED | 11",
                 "❔XX | 🟢 | trojan | 3YED | 13",
-                "❔XX | 🟢 | trojan | 3YED | 15",
-                "❔XX | 🟢 | trojan | 3YED | 16",
+                "❔XX | 🟢 | trojan | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
@@ -253,8 +247,10 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 4",
+                "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 2",
@@ -365,7 +361,6 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 46",
@@ -449,20 +444,19 @@
                 "🚩CF | 🔴 | vless | 3YED | 4",
                 "🚩CF | 🔴 | vless | 3YED | 6",
                 "🇫🇷FR | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "🇫🇷FR | 🔴 | vless | 3YED | 1",
                 "🇩🇪DE | 🔴 | vless | 3YED | 2",
-                "🇫🇷FR | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🔴 | vless | 3YED | 3",
                 "🇫🇷FR | 🔴 | vless | 3YED | 4",
-                "🇩🇪DE | 🔴 | vless | 3YED | 5",
+                "🇫🇷FR | 🔴 | vless | 3YED | 5",
                 "🇩🇪DE | 🔴 | vless | 3YED | 6",
-                "🇫🇷FR | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 7",
                 "🇫🇷FR | 🔴 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 9",
-                "🇫🇷FR | 🔴 | vless | 3YED | 10",
-                "🇫🇷FR | 🔴 | vless | 3YED | 12",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "🇫🇷FR | 🔴 | vless | 3YED | 15",
-                "🇩🇪DE | 🔴 | vless | 3YED | 16",
+                "🇫🇷FR | 🔴 | vless | 3YED | 9",
+                "🇩🇪DE | 🔴 | vless | 3YED | 10",
+                "🇫🇷FR | 🔴 | vless | 3YED | 11",
+                "🇫🇷FR | 🔴 | vless | 3YED | 13",
+                "🇩🇪DE | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
                 "🇨🇦CA | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
@@ -478,7 +472,7 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
                 "🇺🇸US | 🔴 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 6",
+                "🇺🇸US | 🔴 | vless | 3YED | 6",
                 "🇺🇸US | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 10",
@@ -508,9 +502,6 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
-                "🚩CF | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -534,10 +525,9 @@
                 "❔XX | 🟢 | trojan | 3YED | 8",
                 "❔XX | 🟢 | trojan | 3YED | 9",
                 "❔XX | 🟢 | trojan | 3YED | 10",
-                "❔XX | 🟢 | trojan | 3YED | 12",
+                "❔XX | 🟢 | trojan | 3YED | 11",
                 "❔XX | 🟢 | trojan | 3YED | 13",
-                "❔XX | 🟢 | trojan | 3YED | 15",
-                "❔XX | 🟢 | trojan | 3YED | 16",
+                "❔XX | 🟢 | trojan | 3YED | 14",
                 "❔XX | 🟢 | trojan | 3YED | 0",
                 "❔XX | 🟢 | trojan | 3YED | 1",
                 "❔XX | 🟢 | trojan | 3YED | 2",
@@ -549,10 +539,9 @@
                 "❔XX | 🟢 | trojan | 3YED | 8",
                 "❔XX | 🟢 | trojan | 3YED | 9",
                 "❔XX | 🟢 | trojan | 3YED | 10",
-                "❔XX | 🟢 | trojan | 3YED | 12",
+                "❔XX | 🟢 | trojan | 3YED | 11",
                 "❔XX | 🟢 | trojan | 3YED | 13",
-                "❔XX | 🟢 | trojan | 3YED | 15",
-                "❔XX | 🟢 | trojan | 3YED | 16",
+                "❔XX | 🟢 | trojan | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
@@ -590,8 +579,10 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 4",
+                "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 2",
@@ -702,7 +693,6 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 46",
@@ -941,7 +931,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | 3YED | 0",
             "type": "vless",
-            "server": "15.237.10.72",
+            "server": "15.236.200.24",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -970,9 +960,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 1",
             "type": "vless",
-            "server": "63.185.3.163",
+            "server": "15.237.10.72",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1003,7 +993,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
             "type": "vless",
-            "server": "63.185.71.248",
+            "server": "63.185.3.163",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1032,9 +1022,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 3",
             "type": "vless",
-            "server": "15.236.251.51",
+            "server": "63.185.71.248",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1065,7 +1055,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | 3YED | 4",
             "type": "vless",
-            "server": "51.44.104.68",
+            "server": "15.236.251.51",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1094,9 +1084,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 5",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 5",
             "type": "vless",
-            "server": "63.179.214.248",
+            "server": "51.44.104.68",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1127,7 +1117,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | 3YED | 6",
             "type": "vless",
-            "server": "63.180.99.32",
+            "server": "63.179.214.248",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1156,9 +1146,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 7",
             "type": "vless",
-            "server": "15.188.222.65",
+            "server": "63.180.99.32",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1189,6 +1179,37 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | 3YED | 8",
             "type": "vless",
+            "server": "15.188.222.65",
+            "server_port": 22224,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig",
+                "headers": {
+                    "Host": "trojan.burgerip.co.uk"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 9",
+            "type": "vless",
             "server": "15.224.25.236",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
@@ -1218,7 +1239,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 10",
             "type": "vless",
             "server": "3.78.211.9",
             "server_port": 22224,
@@ -1249,7 +1270,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 10",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 11",
             "type": "vless",
             "server": "15.224.91.104",
             "server_port": 22224,
@@ -1280,7 +1301,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 12",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 13",
             "type": "vless",
             "server": "51.44.95.202",
             "server_port": 22224,
@@ -1311,71 +1332,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 14",
             "type": "vless",
             "server": "3.65.4.245",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 15",
-            "type": "vless",
-            "server": "15.237.158.158",
-            "server_port": 22224,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig",
-                "headers": {
-                    "Host": "trojan.burgerip.co.uk"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 16",
-            "type": "vless",
-            "server": "3.122.176.19",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1748,7 +1707,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 6",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2400,85 +2359,6 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "104.17.121.37",
-            "server_port": 2096,
-            "uuid": "6992f972-39ab-41e3-9d2e-39efc00ced3d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "aRTfuL-eXCHAnGed81Ihi4YWX.carbONblAckBMW.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "alalamtv.net.jamejamonline.ir.iribnews.ir.alef.ir.eghtesadonline.com.rajanews.com.khabaronline.ir",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
-            "type": "vless",
-            "server": "anten.ir",
-            "server_port": 443,
-            "uuid": "9306f42a-3e45-449e-8d26-d01904133418",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "twoline.mr-incognito.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "199.34.228.54",
-            "server_port": 443,
-            "uuid": "62470850-6875-4008-b773-925d7ad510a0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "my.pars-cdn.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "zula.ir",
@@ -2778,7 +2658,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 0",
             "type": "trojan",
-            "server": "15.237.10.72",
+            "server": "15.236.200.24",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2800,7 +2680,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 1",
             "type": "trojan",
-            "server": "63.185.3.163",
+            "server": "15.237.10.72",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2822,7 +2702,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 2",
             "type": "trojan",
-            "server": "63.185.71.248",
+            "server": "63.185.3.163",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2844,7 +2724,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 3",
             "type": "trojan",
-            "server": "15.236.251.51",
+            "server": "63.185.71.248",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2866,7 +2746,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 4",
             "type": "trojan",
-            "server": "51.44.104.68",
+            "server": "15.236.251.51",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2888,7 +2768,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 5",
             "type": "trojan",
-            "server": "63.179.214.248",
+            "server": "51.44.104.68",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2910,7 +2790,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 6",
             "type": "trojan",
-            "server": "63.180.99.32",
+            "server": "63.179.214.248",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2932,7 +2812,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 7",
             "type": "trojan",
-            "server": "15.188.222.65",
+            "server": "63.180.99.32",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2954,7 +2834,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 8",
             "type": "trojan",
-            "server": "15.224.25.236",
+            "server": "15.188.222.65",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2976,7 +2856,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 9",
             "type": "trojan",
-            "server": "3.78.211.9",
+            "server": "15.224.25.236",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -2998,7 +2878,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 10",
             "type": "trojan",
-            "server": "15.224.91.104",
+            "server": "3.78.211.9",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -3018,9 +2898,9 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 12",
+            "tag": "❔XX | 🟢 | trojan | 3YED | 11",
             "type": "trojan",
-            "server": "51.44.95.202",
+            "server": "15.224.91.104",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -3042,51 +2922,29 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 13",
             "type": "trojan",
+            "server": "51.44.95.202",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | trojan | 3YED | 14",
+            "type": "trojan",
             "server": "3.65.4.245",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 15",
-            "type": "trojan",
-            "server": "15.237.158.158",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 16",
-            "type": "trojan",
-            "server": "3.122.176.19",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -3108,7 +2966,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 0",
             "type": "trojan",
-            "server": "15.237.10.72",
+            "server": "15.236.200.24",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3130,7 +2988,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 1",
             "type": "trojan",
-            "server": "63.185.3.163",
+            "server": "15.237.10.72",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3152,7 +3010,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 2",
             "type": "trojan",
-            "server": "63.185.71.248",
+            "server": "63.185.3.163",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3174,7 +3032,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 3",
             "type": "trojan",
-            "server": "15.236.251.51",
+            "server": "63.185.71.248",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3196,7 +3054,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 4",
             "type": "trojan",
-            "server": "51.44.104.68",
+            "server": "15.236.251.51",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3218,7 +3076,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 5",
             "type": "trojan",
-            "server": "63.179.214.248",
+            "server": "51.44.104.68",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3240,7 +3098,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 6",
             "type": "trojan",
-            "server": "63.180.99.32",
+            "server": "63.179.214.248",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3262,7 +3120,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 7",
             "type": "trojan",
-            "server": "15.188.222.65",
+            "server": "63.180.99.32",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3284,7 +3142,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 8",
             "type": "trojan",
-            "server": "15.224.25.236",
+            "server": "15.188.222.65",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3306,7 +3164,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 9",
             "type": "trojan",
-            "server": "3.78.211.9",
+            "server": "15.224.25.236",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3328,7 +3186,7 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 10",
             "type": "trojan",
-            "server": "15.224.91.104",
+            "server": "3.78.211.9",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3348,9 +3206,9 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 12",
+            "tag": "❔XX | 🟢 | trojan | 3YED | 11",
             "type": "trojan",
-            "server": "51.44.95.202",
+            "server": "15.224.91.104",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -3372,51 +3230,29 @@
         {
             "tag": "❔XX | 🟢 | trojan | 3YED | 13",
             "type": "trojan",
+            "server": "51.44.95.202",
+            "server_port": 22223,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | trojan | 3YED | 14",
+            "type": "trojan",
             "server": "3.65.4.245",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 15",
-            "type": "trojan",
-            "server": "15.237.158.158",
-            "server_port": 22223,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | trojan | 3YED | 16",
-            "type": "trojan",
-            "server": "3.122.176.19",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -4254,7 +4090,7 @@
             "type": "vmess",
             "server": "108.61.190.45",
             "server_port": 36956,
-            "uuid": "6335dc43-197a-480b-9e87-b9f9ce0362f5",
+            "uuid": "0814b4fa-638d-487b-aac4-66df3d12a8cc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -4271,6 +4107,40 @@
             "type": "vmess",
             "server": "108.61.190.45",
             "server_port": 36956,
+            "uuid": "d571bf84-a865-48d1-93e0-2e8f9b45b038",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 2",
+            "type": "vmess",
+            "server": "108.61.190.45",
+            "server_port": 36956,
+            "uuid": "6335dc43-197a-480b-9e87-b9f9ce0362f5",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
+            "type": "vmess",
+            "server": "108.61.190.45",
+            "server_port": 36956,
             "uuid": "8b8db685-af04-4053-9452-a12fd98c8db1",
             "security": "auto",
             "alter_id": 0,
@@ -4284,7 +4154,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "108.61.190.45",
             "server_port": 10896,
@@ -4298,7 +4168,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🔴 | vless | 3YED | 5",
             "type": "vless",
             "server": "fastly.com",
             "server_port": 80,
@@ -7430,20 +7300,6 @@
                 "headers": {
                     "Host": "a.darafiq.ir"
                 }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
-            "type": "vless",
-            "server": "downlod.musicribvar.com",
-            "server_port": 45029,
-            "uuid": "01ef96b4-e7ec-4218-8ffe-a59e1cdfd836",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
