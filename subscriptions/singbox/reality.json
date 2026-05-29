@@ -109,10 +109,8 @@
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -171,10 +169,8 @@
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -368,64 +364,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "138.124.186.202",
-            "server_port": 443,
-            "uuid": "e346f220-4ca4-4f69-a66b-52e992b3b625",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.fh-aachen.de",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 3",
-            "type": "vless",
-            "server": "fr.denditop.site",
-            "server_port": 443,
-            "uuid": "256c5f48-4908-4255-83d1-c86cb58f22b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fr.denditop.site",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4",
-                    "short_id": "9c2378562188c3cb"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "188.245.65.59",
@@ -462,7 +400,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 3",
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "93.115.25.153",
             "server_port": 443,
