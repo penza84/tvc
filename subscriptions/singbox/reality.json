@@ -107,9 +107,10 @@
                 "URL-TEST",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 7",
-                "❔XX | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 6",
+                "🇳🇱NL | 🟢 | vless | 3YED | 3",
+                "🇺🇸US | 🟢 | vless | 3YED | 4",
+                "🇩🇪DE | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -167,9 +168,10 @@
             "outbounds": [
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 7",
-                "❔XX | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 6",
+                "🇳🇱NL | 🟢 | vless | 3YED | 3",
+                "🇺🇸US | 🟢 | vless | 3YED | 4",
+                "🇩🇪DE | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -306,7 +308,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 3",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 3",
             "type": "vless",
             "server": "51.158.206.93",
             "server_port": 23576,
@@ -335,7 +337,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
+            "tag": "🇺🇸US | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "137.184.218.169",
             "server_port": 36925,
@@ -364,7 +366,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "188.245.65.59",
             "server_port": 443,
@@ -397,6 +399,35 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "panel.panel.pythash.tr",
+            "server_port": 443,
+            "uuid": "68f91cc2-4ef2-46fd-932a-2d0350f682c8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg",
+                    "short_id": "61ad"
+                }
             }
         },
         {
