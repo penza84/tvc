@@ -155,6 +155,7 @@ proxies:
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 2","type":"trojan","server":"104.17.121.9","port":443,"udp":false,"password":"Mitivpn","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"my.hitgram.ir"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"216.24.57.7","port":443,"udp":false,"password":"Mitivpn","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"cdn.hitgram.ir"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"45.130.125.76","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"165.215.250.14","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -197,6 +198,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | 3YED | 17'
       - '🚩CF | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 5'
+      - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 1'
   - name: URL-TEST
     type: url-test
@@ -241,6 +243,7 @@ proxy-groups:
       - '🚩CF | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 1'
+      - '❔XX | 🔴 | trojan | 3YED | 1'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -282,6 +285,7 @@ proxy-groups:
       - '❔XX | 🟢 | trojan | 3YED | 17'
       - '🚩CF | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 5'
+      - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 1'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
