@@ -2,7 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
-trojan://telegram-id-privatevpns@15.224.91.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 14
-trojan://telegram-id-directvpn@15.224.91.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 14
-trojan://Mitivpn@216.24.57.7:443?allowInsecure=1&alpn=http/1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=/&sni=cdn.hitgram.ir&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4
+trojan://telegram-id-privatevpns@15.224.91.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-privatevpns@51.44.95.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 17
+trojan://telegram-id-directvpn@15.224.91.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-directvpn@51.44.95.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 17
+trojan://Mitivpn@216.24.57.7:443?allowInsecure=1&alpn=http/1.1&ed=2048&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdn.hitgram.ir&path=/&sni=cdn.hitgram.ir&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#❔XX | 🔴 | trojan | 3YED | 1
