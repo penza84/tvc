@@ -108,9 +108,8 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇹🇷TR | 🔴 | vless | 3YED | 4",
-                "🇮🇷IR | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -127,9 +126,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇹🇷TR | 🔴 | vless | 3YED | 4",
-                "🇮🇷IR | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -218,35 +216,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 5",
-            "type": "vless",
-            "server": "87.107.175.18",
-            "server_port": 8086,
-            "uuid": "e145b861-ac4a-4e5b-b470-561e4e544c40",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.snapp.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "0DKjdlADOX3-J6ZYv6RjlDP5n3kOahNBn3vUNnHO0l0",
-                    "short_id": "d1"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "84.75.220.223",
@@ -276,7 +245,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 0",
             "type": "vless",
             "server": "panel.panel.pythash.tr",
             "server_port": 443,
