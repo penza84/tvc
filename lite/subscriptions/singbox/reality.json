@@ -107,9 +107,9 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇹🇷TR | 🔴 | vless | 3YED | 3",
-                "🇮🇷IR | 🟢 | vless | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 3",
+                "🇹🇷TR | 🔴 | vless | 3YED | 4",
+                "🇮🇷IR | 🟢 | vless | 3YED | 5",
+                "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -126,9 +126,9 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇹🇷TR | 🔴 | vless | 3YED | 3",
-                "🇮🇷IR | 🟢 | vless | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 3",
+                "🇹🇷TR | 🔴 | vless | 3YED | 4",
+                "🇮🇷IR | 🟢 | vless | 3YED | 5",
+                "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -189,7 +189,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇹🇷TR | 🔴 | vless | 3YED | 3",
+            "tag": "🇹🇷TR | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "37.221.79.69",
             "server_port": 8443,
@@ -218,7 +218,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 4",
+            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "87.107.175.18",
             "server_port": 8086,
@@ -247,7 +247,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "84.75.220.223",
             "server_port": 33434,
