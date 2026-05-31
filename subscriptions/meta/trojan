@@ -160,8 +160,8 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"64.176.65.85","port":443,"udp":false,"password":"iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"78.159.131.12","port":28259,"udp":false,"password":"MeaDiUmPlkWbZJ2BON8tz","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ads.x5.ru"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 7","type":"trojan","server":"104.17.121.9","port":443,"udp":false,"password":"Mitivpn","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"my.hitgram.ir"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"45.130.125.76","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 1","type":"trojan","server":"165.215.250.14","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"45.130.125.76","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmlunch.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"165.215.250.14","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -208,8 +208,8 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 1'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -256,8 +256,8 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 1'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -303,8 +303,8 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '🚩CF | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 1'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
