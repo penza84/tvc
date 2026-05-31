@@ -16,11 +16,11 @@ DIRECT = direct
 🇫🇷FR | 🟢 | trojan | 3YED | 16 = trojan, 51.44.104.68, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇩🇪DE | 🟢 | trojan | 3YED | 17 = trojan, 63.179.214.248, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇺🇸US | 🔴 | trojan | 3YED | 7 = trojan, 104.17.121.9, 443, password = Mitivpn, udp-delay = true, skip-cert-verify = true, sni = my.hitgram.ir, ws = false
-🇸🇨SC | 🔴 | trojan | 3YED | 1 = trojan, 45.130.125.76, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
+🇸🇨SC | 🔴 | trojan | 3YED | 2 = trojan, 45.130.125.76, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 1
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 1
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 1
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 2
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 2
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇫🇷FR | 🟢 | trojan | 3YED | 16,🇩🇪DE | 🟢 | trojan | 3YED | 17,🇺🇸US | 🔴 | trojan | 3YED | 7,🇸🇨SC | 🔴 | trojan | 3YED | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
