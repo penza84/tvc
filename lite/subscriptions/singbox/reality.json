@@ -108,7 +108,7 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -126,7 +126,7 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -216,11 +216,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 4",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 4",
             "type": "vless",
-            "server": "84.75.220.223",
-            "server_port": 33434,
-            "uuid": "614ad5da-e5cc-479d-bc90-3db549ca96e4",
+            "server": "146.0.73.104",
+            "server_port": 8443,
+            "uuid": "af194c0e-95c3-417b-85bf-9ac3027f903e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -230,17 +230,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "ads.5ka.ru",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "CBLftLCz0w2EX8H3sQ4ahU_lc9_aWJZO_8OHJEWGjDo",
-                    "short_id": "0af57b636837"
+                    "public_key": "xSnNFylG-eUpKDPa2a-R3rdSB1HDrmenM-jU19n-xXA",
+                    "short_id": "612d8fa72c"
                 }
             }
         },
