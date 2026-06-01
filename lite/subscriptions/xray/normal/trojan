@@ -7,3 +7,4 @@ trojan://telegram-id-privatevpns@3.75.20.183:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.125.174.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 14
 trojan://telegram-id-directvpn@3.75.20.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 15
 trojan://humanity@216.24.57.7:443?alpn=http/1.1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 1
+trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇸🇨SC | 🔴 | trojan | 3YED | 4
