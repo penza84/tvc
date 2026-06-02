@@ -121,6 +121,7 @@ dns:
 
 proxies:
   - {"name":"🇷🇺RU | 🟢 | vless | 3YED | 7","type":"vless","server":"89.208.86.65","port":443,"udp":true,"uuid":"3a83ab7a-9b6f-460c-a128-1799f63695e3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tradingview.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM","short-id":"f32140952ba18e18"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | 3YED | 1","type":"vless","server":"23.26.37.19","port":2040,"udp":true,"uuid":"17451fec-af94-4715-8c2f-7f6839130d0a","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"tradingview.com","reality-opts":{"public-key":"LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0","short-id":"53197c66aef53c44"}}
   - {"name":"🇳🇱NL | 🟢 | vless | 3YED | 2","type":"vless","server":"88.218.120.60","port":4443,"udp":true,"uuid":"41b903e0-7d0a-45d0-9b29-83086024a88b","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"sni4.streisand.lt","flow":"xtls-rprx-vision","reality-opts":{"public-key":"-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg","short-id":"612d8fa72c"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 1","type":"vless","server":"panel.panel.pythash.tr","port":443,"udp":true,"uuid":"68f91cc2-4ef2-46fd-932a-2d0350f682c8","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg","short-id":"61ad"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 3","type":"vless","server":"193.163.203.76","port":50592,"udp":true,"uuid":"439f353b-b52f-4355-93d8-26e0567d5308","tls":true,"network":"tcp","client-fingerprint":"qq","servername":"api-maps.yandex.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ","short-id":"b7ca855a4763a7ac"}}
@@ -139,6 +140,7 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇷🇺RU | 🟢 | vless | 3YED | 7'
+      - '🇩🇪DE | 🔴 | vless | 3YED | 1'
       - '🇳🇱NL | 🟢 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 1'
       - '❔XX | 🟢 | vless | 3YED | 3'
@@ -157,6 +159,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇷🇺RU | 🟢 | vless | 3YED | 7'
+      - '🇩🇪DE | 🔴 | vless | 3YED | 1'
       - '🇳🇱NL | 🟢 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 1'
       - '❔XX | 🟢 | vless | 3YED | 3'
@@ -174,6 +177,7 @@ proxy-groups:
     interval: 60
     proxies:
       - '🇷🇺RU | 🟢 | vless | 3YED | 7'
+      - '🇩🇪DE | 🔴 | vless | 3YED | 1'
       - '🇳🇱NL | 🟢 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 1'
       - '❔XX | 🟢 | vless | 3YED | 3'

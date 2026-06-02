@@ -107,6 +107,7 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇳🇱NL | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -126,6 +127,7 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇳🇱NL | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -185,6 +187,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
                     "short_id": "f32140952ba18e18"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "23.26.37.19",
+            "server_port": 2040,
+            "uuid": "17451fec-af94-4715-8c2f-7f6839130d0a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tradingview.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "qq"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0",
+                    "short_id": "53197c66aef53c44"
                 }
             }
         },
