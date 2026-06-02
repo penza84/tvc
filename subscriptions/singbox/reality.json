@@ -145,10 +145,10 @@
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 48",
-                "❔XX | 🔴 | vless | 3YED | 52",
-                "❔XX | 🟢 | vless | 3YED | 53",
+                "🇵🇱PL | 🟢 | vless | 3YED | 5",
+                "🇩🇪DE | 🟢 | vless | 3YED | 48",
+                "🇮🇷IR | 🔴 | vless | 3YED | 52",
+                "🇫🇮FI | 🟢 | vless | 3YED | 53",
                 "❔XX | 🟢 | vless | 3YED | 54",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🟢 | vless | 3YED | 63",
@@ -215,10 +215,10 @@
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 48",
-                "❔XX | 🔴 | vless | 3YED | 52",
-                "❔XX | 🟢 | vless | 3YED | 53",
+                "🇵🇱PL | 🟢 | vless | 3YED | 5",
+                "🇩🇪DE | 🟢 | vless | 3YED | 48",
+                "🇮🇷IR | 🔴 | vless | 3YED | 52",
+                "🇫🇮FI | 🟢 | vless | 3YED | 53",
                 "❔XX | 🟢 | vless | 3YED | 54",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🟢 | vless | 3YED | 63",
@@ -1463,7 +1463,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "tag": "🇵🇱PL | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "77.239.114.176",
             "server_port": 19105,
@@ -1492,7 +1492,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 48",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 48",
             "type": "vless",
             "server": "57.129.53.181",
             "server_port": 23576,
@@ -1521,7 +1521,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 52",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 52",
             "type": "vless",
             "server": "185.218.139.138",
             "server_port": 443,
@@ -1557,7 +1557,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 53",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 53",
             "type": "vless",
             "server": "92.60.78.221",
             "server_port": 443,
