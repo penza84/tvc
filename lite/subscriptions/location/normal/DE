@@ -1,7 +1,6 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.9.141:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | 3YED | 12
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.67.118.188:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | 3YED | 13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#🇩🇪DE | 🔴 | vless | 3YED | 0
 vless://2a9f4af9-d04d-4c34-8170-89f77dce717c@108.61.178.31:30345?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | 3YED | 1
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.37.19:2040?encryption=none&type=tcp&security=reality&headerType=none&sni=tradingview.com&fp=qq&allowInsecure=1&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44#🇩🇪DE | 🔴 | vless | 3YED | 1
-trojan://telegram-id-privatevpns@63.185.9.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 12
-trojan://telegram-id-directvpn@63.185.9.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 12
-vless://a75c027c-dc95-4efd-894a-2c85f0186017@162.19.132.77:2095?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | 3YED | 15
+trojan://telegram-id-privatevpns@3.67.118.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 13
+trojan://telegram-id-directvpn@3.67.118.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 13
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | 3YED | 15
