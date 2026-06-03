@@ -152,7 +152,6 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"64.176.65.85","port":443,"udp":false,"password":"iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"91.233.8.25","port":443,"udp":false,"password":"I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"fra34.tracker-ws.click"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"89.116.46.68","port":443,"udp":false,"password":"de4dbc41-fe13-4498-b5b4-083e451270f6","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"zaintest.vuclip.com.cyylr.eu.cc"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"185.137.157.254","port":443,"udp":false,"password":"hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.directorypipeline.click"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 0","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"45.130.125.76","port":443,"udp":false,"password":"0jvOqSPtoC","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"da.aananas.ir"}
 proxy-groups:
@@ -193,7 +192,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 0'
   - name: URL-TEST
@@ -234,7 +232,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 0'
   - name: FALLBACK
@@ -274,7 +271,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 0'
 rule-providers:
