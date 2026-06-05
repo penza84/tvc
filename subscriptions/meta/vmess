@@ -144,7 +144,7 @@ proxies:
   - {"name":"🚩CF | 🟢 | vmess | 3YED | 3","type":"vmess","server":"188.114.97.21","port":443,"cipher":"auto","uuid":"f584de15-2034-4170-a723-f48c2bae5e0f","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"afrhms16v.bestxray.buzz"}}}
   - {"name":"🚩CF | 🟢 | vmess | 3YED | 4","type":"vmess","server":"104.19.45.84","port":2095,"cipher":"auto","uuid":"7a737f41-b792-4260-94ff-3d864da67b80","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"onea.flha.ru"}}}
   - {"name":"🚩CF | 🟢 | vmess | 3YED | 5","type":"vmess","server":"172.67.223.119","port":"443","cipher":"auto","uuid":"6c168fcc-2231-4f3b-8c1e-f6391692df4a","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/link","headers":{"host":"hms02.fxiaomi.sbs"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 6","type":"vmess","server":"00000000000000000000000000000000000000000000000000000000000004a.rui77.com","port":"443","cipher":"auto","uuid":"f0038a33-6b22-4449-8bef-c16829a9d3aa","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 6","type":"vmess","server":"00000000000000000000000000000000000000000000000000000000000004a.rui77.com","port":"443","cipher":"auto","uuid":"f0038a33-6b22-4449-8bef-c16829a9d3aa","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🚩CF | 🟢 | vmess | 3YED | 7","type":"vmess","server":"104.19.45.50","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip13.freegradely.xyz"}}}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 8","type":"vmess","server":"4.hk.zz.xxxxx.x-t-fuckword.network","port":"36676","cipher":"auto","uuid":"244effd9-0204-3c4a-8537-0dca4e5fd9b5","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 9","type":"vmess","server":"cdn.bootloader.cf","port":"80","cipher":"auto","uuid":"74758f06-f4b9-4ef1-a86c-f0a0cc82109f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/aries","headers":{"host":"lux.justu.ml"}}}
@@ -178,7 +178,7 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | 3YED | 3'
       - '🚩CF | 🟢 | vmess | 3YED | 4'
       - '🚩CF | 🟢 | vmess | 3YED | 5'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 6'
       - '🚩CF | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 8'
       - '❔XX | 🟢 | vmess | 3YED | 9'
@@ -212,7 +212,7 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | 3YED | 3'
       - '🚩CF | 🟢 | vmess | 3YED | 4'
       - '🚩CF | 🟢 | vmess | 3YED | 5'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 6'
       - '🚩CF | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 8'
       - '❔XX | 🟢 | vmess | 3YED | 9'
@@ -245,7 +245,7 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | 3YED | 3'
       - '🚩CF | 🟢 | vmess | 3YED | 4'
       - '🚩CF | 🟢 | vmess | 3YED | 5'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 6'
       - '🚩CF | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 8'
       - '❔XX | 🟢 | vmess | 3YED | 9'
