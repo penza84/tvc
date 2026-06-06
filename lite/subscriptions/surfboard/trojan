@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | 3YED | 14 = trojan, 15.224.86.154, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 15 = trojan, 15.236.220.28, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 14 = trojan, 15.224.86.154, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 15 = trojan, 15.236.220.28, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇬🇧GB | 🔴 | trojan | 3YED | 3 = trojan, 89.116.46.68, 443, password = de4dbc41-fe13-4498-b5b4-083e451270f6, udp-delay = true, skip-cert-verify = false, sni = zaintest.vuclip.com.cyylr.eu.cc, ws = false
-❔XX | 🟢 | trojan | 3YED | 9 = trojan, 141.193.213.10, 443, password = 6b7f37af-a853-4f01-a031-5fa4eca4f5bf, udp-delay = true, skip-cert-verify = true, sni = ads.ruangguru.com.cyylr.eu.cc, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 14 = trojan, 63.176.37.226, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 15 = trojan, 15.224.86.154, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 14 = trojan, 63.176.37.226, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 15 = trojan, 15.224.86.154, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇵🇱PL | 🔴 | trojan | 3YED | 1 = trojan, 64.176.65.85, 443, password = iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf, udp-delay = true, skip-cert-verify = false, ws = false
+🇨🇿CZ | 🔴 | trojan | 3YED | 2 = trojan, ch-2.bexum.fun, 443, password = LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu, udp-delay = true, skip-cert-verify = false, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇬🇧GB | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | trojan | 3YED | 9
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇬🇧GB | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | trojan | 3YED | 9
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇫🇷FR | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇬🇧GB | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | trojan | 3YED | 9
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇵🇱PL | 🔴 | trojan | 3YED | 1,🇨🇿CZ | 🔴 | trojan | 3YED | 2
+URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇵🇱PL | 🔴 | trojan | 3YED | 1,🇨🇿CZ | 🔴 | trojan | 3YED | 2
+FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇵🇱PL | 🔴 | trojan | 3YED | 1,🇨🇿CZ | 🔴 | trojan | 3YED | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
