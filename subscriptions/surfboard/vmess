@@ -16,11 +16,12 @@ DIRECT = direct
 ❔XX | 🟢 | vmess | 3YED | 2 = vmess, 107.149.119.43, 37000, username = 418048af-a293-4b99-9b0c-98ca3580dd24, ws = true, tls = 1, vmess-aead = false, ws-path = /path/040318142507, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | 3YED | 3 = vmess, admin.arzonhost.ir, 2086, username = 7d93e992-48cf-42d4-84f8-75768e815a4c, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"admin.arzonhost.ir", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-🚩CF | 🟢 | vmess | 3YED | 1 = vmess, 172.64.198.249, 2086, username = e9e3cc13-db48-4cc1-8c24-7626439a5339, ws = true, tls = , vmess-aead = true, ws-path = github.com/Alvin9999, ws-headers = Host:"ip1.1457230.xyz", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 0 = vmess, 203.23.104.222, 443, username = b3a21def-5fcc-47a8-a6a0-a34e29d5288a, ws = true, tls = 1, vmess-aead = false, ws-path = /wss51068, ws-headers = Host:"", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 1 = vmess, cg1c04.waimaojd.com, 443, username = be8e3136-b874-4085-bd23-ec3699300490, ws = true, tls = 1, vmess-aead = true, ws-path = /api/v1/graphql, ws-headers = Host:"cg1c04.waimaojd.com", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🚩CF | 🟢 | vmess | 3YED | 1
-URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🚩CF | 🟢 | vmess | 3YED | 1
-FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🚩CF | 🟢 | vmess | 3YED | 1
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 1
+URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 1
+FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 2,❔XX | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 0,❔XX | 🟢 | vmess | 3YED | 1
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
