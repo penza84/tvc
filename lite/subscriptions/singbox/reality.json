@@ -109,10 +109,11 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "🇺🇸US | 🟢 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -126,10 +127,11 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "🇺🇸US | 🟢 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -243,6 +245,35 @@ https://github.com/3yed-61
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | 3YED | 7",
+            "type": "vless",
+            "server": "nl01.goodmaximum.com",
+            "server_port": 443,
+            "uuid": "7d1591c2-c313-000a-a56a-cfff98808bdc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nimhogoa.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ",
+                    "short_id": "31181028b56c8704"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | 3YED | 1",
             "type": "vless",
             "server": "panel.panel.pythash.tr",
@@ -330,7 +361,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 3",
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "iranfuture.xyz",
             "server_port": 80,
