@@ -105,14 +105,14 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇮🇷IR | 🟢 | ss | 3YED | 1"
+                "❔XX | 🟢 | ss | 3YED | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇮🇷IR | 🟢 | ss | 3YED | 1"
+                "❔XX | 🟢 | ss | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -135,7 +135,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇮🇷IR | 🟢 | ss | 3YED | 1",
+            "tag": "❔XX | 🟢 | ss | 3YED | 1",
             "type": "shadowsocks",
             "server": "shx.sanflow.ir",
             "server_port": 126,
