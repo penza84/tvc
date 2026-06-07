@@ -109,15 +109,13 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
-                "🇸🇪SE | 🔴 | vless | 3YED | 0",
-                "🇹🇷TR | 🟢 | vless | 3YED | 14",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇹🇷TR | 🟢 | vless | 3YED | 16",
+                "🇸🇪SE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 1",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -131,15 +129,13 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
-                "🇸🇪SE | 🔴 | vless | 3YED | 0",
-                "🇹🇷TR | 🟢 | vless | 3YED | 14",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇹🇷TR | 🟢 | vless | 3YED | 16",
+                "🇸🇪SE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 1",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -260,36 +256,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "143.14.50.249",
-            "server_port": 443,
-            "uuid": "bae2fd3a-55fb-4094-99f6-c94e25d7d15d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amd.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "MJsIaoeYt-qnokhHqSKjLQri0cddD7lKXQAGV34v3TI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 14",
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 16",
             "type": "vless",
             "server": "213.156.152.186",
             "server_port": 443,
@@ -318,7 +285,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇸🇪SE | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "se.riotvpn.eu",
             "server_port": 443,
@@ -405,7 +372,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 1",
+            "tag": "❔XX | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "141.98.118.70",
             "server_port": 443,
@@ -488,35 +455,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
-            "type": "vless",
-            "server": "nl01.goodmaximum.com",
-            "server_port": 443,
-            "uuid": "db95b766-43a8-000a-9b5d-5ca6f2735188",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "files.nimhogoa.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ",
-                    "short_id": "77778028b56c8704"
                 }
             }
         },

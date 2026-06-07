@@ -268,9 +268,43 @@ https://github.com/3yed-61
         {
             "tag": "❔XX | 🟢 | vmess | 3YED | 8",
             "type": "vmess",
-            "server": "www.darkroom.lol",
-            "server_port": 8080,
-            "uuid": "22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0",
+            "server": "134.195.198.147",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 9",
+            "type": "vmess",
+            "server": "162.159.200.75",
+            "server_port": 80,
+            "uuid": "19428c44-85b3-4a7c-8bc4-b58396138322",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -284,30 +318,6 @@ https://github.com/3yed-61
             "transport": {
                 "type": "ws",
                 "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 9",
-            "type": "vmess",
-            "server": "icook.hk",
-            "server_port": 80,
-            "uuid": "3eb05cb6-d2e1-4a31-9f82-514cfa98fe15",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ray",
                 "headers": {
                     "Host": ""
                 }
