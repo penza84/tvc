@@ -108,11 +108,10 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "🇹🇷TR | 🟢 | vless | 3YED | 16",
                 "🇸🇪SE | 🟢 | vless | 3YED | 6",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇵🇱PL | 🔴 | vless | 3YED | 1",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -128,11 +127,10 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "🇹🇷TR | 🟢 | vless | 3YED | 16",
                 "🇸🇪SE | 🟢 | vless | 3YED | 6",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇵🇱PL | 🔴 | vless | 3YED | 1",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -220,42 +218,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "109.70.74.36",
-            "server_port": 443,
-            "uuid": "0a65e0fa-62c8-40f2-ae2b-7549ddb69338",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.amazon.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "iGmGz1yVM3MwLtgj-R0xqrLbysfBxgcRRlbXN6f883Y",
-                    "short_id": "8ba354e84e"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "DarkTeam_VPN",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
             "tag": "🇹🇷TR | 🟢 | vless | 3YED | 16",
             "type": "vless",
             "server": "213.156.152.186",
@@ -314,7 +276,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "82.40.62.3",
             "server_port": 80,
@@ -343,7 +305,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "panel.panel.pythash.tr",
             "server_port": 443,
