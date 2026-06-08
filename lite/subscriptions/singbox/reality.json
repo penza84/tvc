@@ -108,9 +108,10 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇹🇷TR | 🟢 | vless | 3YED | 16",
-                "🇸🇪SE | 🟢 | vless | 3YED | 6",
-                "🇵🇱PL | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
+                "🇸🇪SE | 🟢 | vless | 3YED | 7",
+                "🇺🇸US | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -127,9 +128,10 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇹🇷TR | 🟢 | vless | 3YED | 16",
-                "🇸🇪SE | 🟢 | vless | 3YED | 6",
-                "🇵🇱PL | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
+                "🇸🇪SE | 🟢 | vless | 3YED | 7",
+                "🇺🇸US | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -218,11 +220,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 0",
             "type": "vless",
-            "server": "213.156.152.186",
-            "server_port": 443,
-            "uuid": "6a3b21e8-3d68-4f5d-8f53-5bf8f9735920",
+            "server": "aa.nerdsfeed.com",
+            "server_port": 2095,
+            "uuid": "82a114fc-1760-4833-aacb-69887fe94f40",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -232,22 +234,22 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "aws.amazon.com",
+                "server_name": "chatgpt.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "randomized"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "DAV0PxuvxAz_pMRmm4BO2Vsvof2DQ-2W08cgJEebrkg",
-                    "short_id": "d4d0"
+                    "public_key": "zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o",
+                    "short_id": "0e40"
                 }
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vless | 3YED | 6",
+            "tag": "🇸🇪SE | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "se.riotvpn.eu",
             "server_port": 443,
@@ -276,7 +278,36 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 1",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 8",
+            "type": "vless",
+            "server": "82.29.128.252",
+            "server_port": 443,
+            "uuid": "f90099ab-bbb9-4d68-824b-edca0ea32cf1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.amd.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "FoCmMBurpqNaVQWlRvyuS1um0ftKxXMnnKNbnHpe-G8",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "82.40.62.3",
             "server_port": 80,
