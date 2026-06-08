@@ -124,8 +124,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 7","type":"vmess","server":"158.69.208.120","port":"80","cipher":"auto","uuid":"bed62ee5-2b42-41b0-aeae-e95d043da869","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 17","type":"vmess","server":"138.68.90.231","port":8080,"cipher":"auto","uuid":"826b8d0a-e0d3-407a-927d-19953c170779","alterId":4,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cctv13/hd.m3u8","headers":{"host":""}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 18","type":"vmess","server":"146.56.162.25","port":443,"cipher":"auto","uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ray","headers":{"host":"lg30.cfcdn3.xyz"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 18","type":"vmess","server":"120.232.153.27","port":"58831","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -136,7 +135,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 18'
   - name: URL-TEST
     type: url-test
@@ -148,7 +146,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 18'
   - name: FALLBACK
     type: fallback
@@ -159,7 +156,6 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 7'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 18'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
