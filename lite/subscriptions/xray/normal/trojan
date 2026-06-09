@@ -2,10 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
-trojan://telegram-id-privatevpns@3.124.229.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
-trojan://telegram-id-privatevpns@3.120.68.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 11
-trojan://telegram-id-directvpn@3.124.229.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
-trojan://telegram-id-directvpn@3.120.68.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 11
-trojan://humanity@165.215.250.14:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4
-trojan://45c47cfa-67da-47e0-b20b-5efa674e6a9b@104.16.72.70:443?host=unnes.ac.id.r3xxe.eu.cc&path=/us-gllc&sni=unnes.ac.id.r3xxe.eu.cc&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5
+trojan://telegram-id-privatevpns@13.37.4.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-privatevpns@15.237.161.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 17
+trojan://telegram-id-directvpn@13.37.4.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-directvpn@15.237.161.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 17
+trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 4
+trojan://humanity@165.215.250.14:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 5
+trojan://humanity@104.19.229.21:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#🇺🇸US | 🔴 | trojan | 3YED | 4
 trojan://KaQKzYh6dd@188.114.97.6:443?security=tls&sni=dd.aananas.ir.&allowInsecure=1&fp=firefox&type=ws&path=/?ed=2048#❔XX | 🟢 | trojan | 3YED | 0
