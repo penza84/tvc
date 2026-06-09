@@ -106,9 +106,9 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇳🇱NL | 🟢 | vless | 3YED | 1",
+                "🇬🇧GB | 🟢 | vless | 3YED | 1",
+                "🇳🇱NL | 🟢 | vless | 3YED | 2",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -123,9 +123,9 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇳🇱NL | 🟢 | vless | 3YED | 1",
+                "🇬🇧GB | 🟢 | vless | 3YED | 1",
+                "🇳🇱NL | 🟢 | vless | 3YED | 2",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -156,7 +156,36 @@ https://github.com/3yed-61
             "type": "dns"
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 1",
+            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "167.104.223.57",
+            "server_port": 7443,
+            "uuid": "adea61c0-0bb2-4ad3-8dba-7766eebd50f8",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.microsoft.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+                    "short_id": "d82fb387"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "51.158.206.25",
             "server_port": 23576,
@@ -210,35 +239,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM",
                     "short_id": "f32140952ba18e18"
-                }
-            }
-        },
-        {
-            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "82.40.62.3",
-            "server_port": 80,
-            "uuid": "540db6ea-ab26-465c-a9bb-8395b8b0b466",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.samsung.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "PecpMnk9UK6kjpMZ18UBTNvpMQQNetgpu2Ne0fqoIlg",
-                    "short_id": "43"
                 }
             }
         },
