@@ -108,7 +108,7 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -125,7 +125,7 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -214,7 +214,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "82.40.62.3",
             "server_port": 80,

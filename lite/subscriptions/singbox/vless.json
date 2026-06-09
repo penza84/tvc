@@ -135,11 +135,10 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 20",
                 "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
-                "🇺🇸US | 🔴 | vless | 3YED | 8",
-                "🇺🇸US | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 43",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 3",
@@ -201,11 +200,10 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 20",
                 "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
-                "🇺🇸US | 🔴 | vless | 3YED | 8",
-                "🇺🇸US | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 43",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 3",
@@ -958,38 +956,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 8",
-            "type": "vless",
-            "server": "188.114.97.6",
-            "server_port": 443,
-            "uuid": "c7addea9-6d8a-48d6-8a00-aa99b8ece143",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ws27.adsvxpro.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/path",
-                "headers": {
-                    "Host": "ws27.adsvxpro.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 11",
+            "tag": "❔XX | 🔴 | vless | 3YED | 11",
             "type": "vless",
             "server": "188.114.97.6",
             "server_port": 80,
@@ -1072,7 +1039,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "82.40.62.3",
             "server_port": 80,

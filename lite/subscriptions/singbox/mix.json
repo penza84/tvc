@@ -143,11 +143,10 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 20",
                 "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
-                "🇺🇸US | 🔴 | vless | 3YED | 8",
-                "🇺🇸US | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 43",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 3",
@@ -159,8 +158,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 17",
-                "❔XX | 🟢 | vmess | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -224,11 +223,10 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | vless | 3YED | 20",
                 "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "🇺🇸US | 🔴 | vless | 3YED | 2",
-                "🇺🇸US | 🔴 | vless | 3YED | 8",
-                "🇺🇸US | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 43",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇵🇱PL | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 3",
@@ -240,8 +238,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 17",
-                "❔XX | 🟢 | vmess | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -1134,38 +1132,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 8",
-            "type": "vless",
-            "server": "188.114.97.6",
-            "server_port": 443,
-            "uuid": "c7addea9-6d8a-48d6-8a00-aa99b8ece143",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ws27.adsvxpro.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/path",
-                "headers": {
-                    "Host": "ws27.adsvxpro.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 11",
+            "tag": "❔XX | 🔴 | vless | 3YED | 11",
             "type": "vless",
             "server": "188.114.97.6",
             "server_port": 80,
@@ -1248,7 +1215,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "82.40.62.3",
             "server_port": 80,
@@ -1542,11 +1509,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 17",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 16",
             "type": "vmess",
-            "server": "104.26.12.31",
-            "server_port": 2086,
-            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+            "server": "dbr3fqf4y53gd4uydq82nu4x.fq83h3g4g4221vh5dn9.workers.dev",
+            "server_port": 443,
+            "uuid": "DDC2A29D-1A41-4CEB-B520-197356099B83",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1557,22 +1524,32 @@ https://github.com/3yed-61
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/github.com\/Alvin9999",
+                "path": "\/speedtest\/Dusseldorf.kotick.site",
                 "headers": {
-                    "Host": "104.26.12.31"
+                    "Host": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 18",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 17",
             "type": "vmess",
-            "server": "russia.com",
-            "server_port": 8880,
-            "uuid": "6658a3a6-225a-4d33-a5d2-82cfde565b4e",
+            "server": "137.175.21.180",
+            "server_port": 38001,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 64,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -1581,11 +1558,21 @@ https://github.com/3yed-61
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/api\/v3\/download.getFile",
+                "path": "\/",
                 "headers": {
-                    "Host": "russia.com"
+                    "Host": ""
                 }
             }
         },
