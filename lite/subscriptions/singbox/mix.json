@@ -106,13 +106,13 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇮🇷IR | 🔴 | vless | 3YED | 5",
                 "🇮🇷IR | 🔴 | vless | 3YED | 6",
-                "🇫🇷FR | 🔴 | vless | 3YED | 14",
-                "🇫🇷FR | 🔴 | vless | 3YED | 15",
+                "🇮🇷IR | 🔴 | vless | 3YED | 7",
+                "🇫🇷FR | 🔴 | vless | 3YED | 12",
+                "🇫🇷FR | 🔴 | vless | 3YED | 13",
                 "🇵🇹PT | 🔴 | vless | 3YED | 5",
-                "🇬🇧GB | 🟢 | vless | 3YED | 1",
-                "🇳🇱NL | 🟢 | vless | 3YED | 2",
+                "🇳🇱NL | 🟢 | vless | 3YED | 1",
+                "🇬🇧GB | 🟢 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
@@ -120,34 +120,30 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "🇺🇸US | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "🇮🇷IR | 🔴 | vless | 3YED | 3",
-                "🇮🇷IR | 🔴 | vless | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇺🇸US | 🔴 | vless | 3YED | 1",
+                "🇳🇱NL | 🟢 | vless | 3YED | 0",
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 14",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 15",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 14",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 15",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 12",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 13",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 12",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 13",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "🇵🇱PL | 🔴 | trojan | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 15",
-                "🇺🇸US | 🔴 | vless | 3YED | 16",
+                "🇨🇦CA | 🔴 | trojan | 3YED | 3",
+                "🇵🇱PL | 🔴 | trojan | 3YED | 4",
+                "🇳🇿NZ | 🔴 | vless | 3YED | 14",
+                "🇫🇷FR | 🟢 | vless | 3YED | 15",
                 "🇺🇸US | 🔴 | vless | 3YED | 26",
                 "🇺🇸US | 🔴 | vless | 3YED | 27",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "🇮🇷IR | 🔴 | vless | 3YED | 9",
+                "🇸🇨SC | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 43",
-                "🇺🇸US | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 44",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | trojan | 3YED | 4",
@@ -156,44 +152,47 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇦🇪AE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vmess | 3YED | 13",
-                "❔XX | 🟢 | vmess | 3YED | 14",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 12",
+                "🆥🆥 | 🟢 | vmess | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 4",
+                "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
-                "❔XX | 🔴 | vless | 3YED | 9",
-                "❔XX | 🟢 | vless | 3YED | 13",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 26",
+                "❔XX | 🟢 | vless | 3YED | 27",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0"
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇮🇷IR | 🔴 | vless | 3YED | 5",
                 "🇮🇷IR | 🔴 | vless | 3YED | 6",
-                "🇫🇷FR | 🔴 | vless | 3YED | 14",
-                "🇫🇷FR | 🔴 | vless | 3YED | 15",
+                "🇮🇷IR | 🔴 | vless | 3YED | 7",
+                "🇫🇷FR | 🔴 | vless | 3YED | 12",
+                "🇫🇷FR | 🔴 | vless | 3YED | 13",
                 "🇵🇹PT | 🔴 | vless | 3YED | 5",
-                "🇬🇧GB | 🟢 | vless | 3YED | 1",
-                "🇳🇱NL | 🟢 | vless | 3YED | 2",
+                "🇳🇱NL | 🟢 | vless | 3YED | 1",
+                "🇬🇧GB | 🟢 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
@@ -201,34 +200,30 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "🇺🇸US | 🔴 | vless | 3YED | 9",
                 "🇮🇷IR | 🔴 | vless | 3YED | 0",
-                "🇮🇷IR | 🔴 | vless | 3YED | 3",
-                "🇮🇷IR | 🔴 | vless | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇺🇸US | 🔴 | vless | 3YED | 1",
+                "🇳🇱NL | 🟢 | vless | 3YED | 0",
                 "🇸🇪SE | 🔴 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 3",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 14",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 15",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 14",
-                "🇫🇷FR | 🟢 | trojan | 3YED | 15",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 12",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 13",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 12",
+                "🇫🇷FR | 🟢 | trojan | 3YED | 13",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "🇵🇱PL | 🔴 | trojan | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "🇺🇸US | 🔴 | vless | 3YED | 15",
-                "🇺🇸US | 🔴 | vless | 3YED | 16",
+                "🇨🇦CA | 🔴 | trojan | 3YED | 3",
+                "🇵🇱PL | 🔴 | trojan | 3YED | 4",
+                "🇳🇿NZ | 🔴 | vless | 3YED | 14",
+                "🇫🇷FR | 🟢 | vless | 3YED | 15",
                 "🇺🇸US | 🔴 | vless | 3YED | 26",
                 "🇺🇸US | 🔴 | vless | 3YED | 27",
                 "🇺🇸US | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "🇮🇷IR | 🔴 | vless | 3YED | 9",
+                "🇸🇨SC | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 43",
-                "🇺🇸US | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 44",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | trojan | 3YED | 4",
@@ -237,31 +232,34 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇦🇪AE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vmess | 3YED | 13",
-                "❔XX | 🟢 | vmess | 3YED | 14",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 12",
+                "🆥🆥 | 🟢 | vmess | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 4",
+                "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🔴 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
-                "❔XX | 🔴 | vless | 3YED | 9",
-                "❔XX | 🟢 | vless | 3YED | 13",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🔴 | vless | 3YED | 8",
+                "❔XX | 🔴 | vless | 3YED | 26",
+                "❔XX | 🟢 | vless | 3YED | 27",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0"
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -284,7 +282,7 @@ https://github.com/3yed-61
             "type": "dns"
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 5",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "185.116.162.12",
             "server_port": 443,
@@ -308,7 +306,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 6",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "103.130.147.66",
             "server_port": 443,
@@ -332,9 +330,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 14",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 12",
             "type": "vless",
-            "server": "35.181.123.19",
+            "server": "15.236.101.176",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -363,9 +361,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 15",
+            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 13",
             "type": "vless",
-            "server": "35.181.235.93",
+            "server": "13.37.141.219",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -425,7 +423,31 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 1",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "77.74.123.168",
+            "server_port": 8443,
+            "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn7-09.vk-cdnvideo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "167.104.223.57",
             "server_port": 7443,
@@ -450,35 +472,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
                     "short_id": "d82fb387"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "51.158.206.25",
-            "server_port": 23576,
-            "uuid": "48ff2b70-e180-582f-8866-d9a2edeed5f5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "fuck.rkn",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s",
-                    "short_id": "01"
                 }
             }
         },
@@ -623,11 +616,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 3",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 0",
             "type": "vless",
-            "server": "mail.erwinhoda.shop",
-            "server_port": 2083,
-            "uuid": "68d21bf9-c8cb-48b9-9994-db6751476cad",
+            "server": "cdn7-39.vk-cdnvideo.com",
+            "server_port": 8443,
+            "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -637,112 +630,12 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mail.erwinhoda.shop",
+                "server_name": "cdn7-39.vk-cdnvideo.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "mail.erwinhoda.shop"
-                }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 4",
-            "type": "vless",
-            "server": "mail.erwinhoda.shop",
-            "server_port": 2083,
-            "uuid": "561a7824-8e9c-4f11-8cee-b5f3959acfeb",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mail.erwinhoda.shop",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "mail.erwinhoda.shop"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "199.232.78.160",
-            "server_port": 443,
-            "uuid": "52c0dab9-2187-49a4-8e31-f1db94bd7a9e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 1",
-            "type": "vless",
-            "server": "199.232.78.159",
-            "server_port": 443,
-            "uuid": "0c09799a-47ca-494e-a50e-828632ef9d81",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "default.ssl.fastly.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "default.ssl.fastly.net"
                 }
             }
         },
@@ -861,9 +754,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 14",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 12",
             "type": "trojan",
-            "server": "35.181.123.19",
+            "server": "15.236.101.176",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -883,9 +776,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 15",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 13",
             "type": "trojan",
-            "server": "35.181.235.93",
+            "server": "13.37.141.219",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -905,9 +798,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 14",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 12",
             "type": "trojan",
-            "server": "35.181.123.19",
+            "server": "15.236.101.176",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -927,9 +820,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 15",
+            "tag": "🇫🇷FR | 🟢 | trojan | 3YED | 13",
             "type": "trojan",
-            "server": "35.181.235.93",
+            "server": "13.37.141.219",
             "server_port": 22223,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -983,7 +876,19 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇱PL | 🔴 | trojan | 3YED | 3",
+            "tag": "🇨🇦CA | 🔴 | trojan | 3YED | 3",
+            "type": "trojan",
+            "server": "172.105.9.126",
+            "server_port": 443,
+            "password": "lTLVIqIvFqp es9giS.0o77ztLrCQLaxVh",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇵🇱PL | 🔴 | trojan | 3YED | 4",
             "type": "trojan",
             "server": "64.176.65.85",
             "server_port": 443,
@@ -995,28 +900,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 15",
+            "tag": "🇳🇿NZ | 🔴 | vless | 3YED | 14",
             "type": "vless",
-            "server": "173.245.58.75",
+            "server": "202.37.33.80",
             "server_port": 443,
-            "uuid": "fc965ad9-bdd7-4815-ad71-b39ec5972dc1",
+            "uuid": "cc752a3e-1537-4e86-bb50-1b897bf7b33c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1026,7 +914,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "octopusss4.com",
+                "server_name": "cyylr.eu.cc",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1036,19 +924,19 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/tsghdws",
+                "path": "\/sg-melbi",
                 "headers": {
-                    "Host": "octopusss4.com"
+                    "Host": "cyylr.eu.cc"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 16",
+            "tag": "🇫🇷FR | 🟢 | vless | 3YED | 15",
             "type": "vless",
-            "server": "104.17.121.71",
+            "server": "51.255.71.16",
             "server_port": 443,
-            "uuid": "c575c0fd-4833-4cba-937d-2342fd32544b",
-            "flow": "",
+            "uuid": "43488128-319e-f480-64ea-0acdc712e2a8",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1057,12 +945,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "de.vpncustomize.cc.cd",
+                "server_name": "www.booking.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU",
+                    "short_id": "b87063a35aaa942e"
                 }
             }
         },
@@ -1133,11 +1026,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
+            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 9",
             "type": "vless",
-            "server": "31.184.244.237",
-            "server_port": 43660,
-            "uuid": "592642e1-4d9c-4d92-a6ff-94572e9d8ff9",
+            "server": "62.220.122.180",
+            "server_port": 441,
+            "uuid": "8165d12c-27da-4276-85d5-e9d5fe656f6a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1147,25 +1040,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 13",
+            "tag": "🇸🇨SC | 🔴 | vless | 3YED | 10",
             "type": "vless",
-            "server": "116.203.60.171",
-            "server_port": 8080,
-            "uuid": "d0cfc134-447c-4c84-965a-ff5f827c9016",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 14",
-            "type": "vless",
-            "server": "46.229.243.69",
+            "server": "45.130.125.194",
             "server_port": 8443,
-            "uuid": "931729a8-3c20-4841-89a1-f18dc9ce0a6f",
+            "uuid": "d3d046fa-d372-430a-8ed9-083d62c44efb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1175,7 +1054,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cdn7-39.vk-cdnvideo.com",
+                "server_name": "vo.new-persian-song.ir",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1216,7 +1095,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 44",
+            "tag": "❔XX | 🔴 | vless | 3YED | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1247,7 +1126,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "18.192.50.101",
             "server_port": 443,
@@ -1261,7 +1140,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "91.107.191.12",
             "server_port": 29376,
@@ -1461,7 +1340,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇦🇪AE | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "em-8.speedmizban.net",
             "server_port": 2044,
@@ -1533,7 +1412,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "146.75.117.91",
             "server_port": 80,
@@ -1547,11 +1426,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 13",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 12",
             "type": "vmess",
-            "server": "104.31.16.46",
-            "server_port": 80,
-            "uuid": "8abe9496-5e24-4e49-b566-dcf86116017d",
+            "server": "88.198.104.211",
+            "server_port": 443,
+            "uuid": "6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1563,19 +1442,19 @@ https://github.com/3yed-61
                 "max_streams": 32
             },
             "transport": {
-                "type": "ws",
-                "path": "\/i99LgvSaslbsPLLQQ7j6Z",
-                "headers": {
-                    "Host": ""
-                }
+                "type": "http",
+                "host": [
+                    ""
+                ],
+                "path": "\/"
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 14",
+            "tag": "🆥🆥 | 🟢 | vmess | 3YED | 13",
             "type": "vmess",
-            "server": "23.227.38.3",
-            "server_port": 2086,
-            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "abaabcc-baac-acba-cadb-caacacacbbbb",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1585,13 +1464,6 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "23.227.38.3"
-                }
             }
         },
         {
@@ -1619,7 +1491,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "91.107.188.182",
             "server_port": 443,
@@ -1691,7 +1563,28 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🔴 | vless | 3YED | 4",
+            "type": "vless",
+            "server": "199.232.197.131",
+            "server_port": 80,
+            "uuid": "cabbfe13-038b-4dbb-9c45-5079c829abfa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "199.232.197.131"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 5",
             "type": "vless",
             "server": "89.116.250.8",
             "server_port": 443,
@@ -1723,6 +1616,27 @@ https://github.com/3yed-61
         },
         {
             "tag": "❔XX | 🔴 | vless | 3YED | 9",
+            "type": "vless",
+            "server": "snapp.ir",
+            "server_port": 2095,
+            "uuid": "07dce2d7-9849-4e22-adb9-36d2763c3b89",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "snapp.ir"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 10",
             "type": "vless",
             "server": "45.130.125.158",
             "server_port": 443,
@@ -1885,11 +1799,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 9",
+            "tag": "❔XX | 🔴 | vless | 3YED | 8",
             "type": "vless",
-            "server": "104.26.0.7",
+            "server": "Cd3.postshup.ir",
             "server_port": 443,
-            "uuid": "45d9e1d7-2853-4b7e-8bad-2dd08bb87cd4",
+            "uuid": "7e1fb37b-de8b-4ba8-ab85-6ddd7251736a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1899,7 +1813,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "sertraline.adaspoloandco.com",
+                "server_name": "cdn-pro2.postshup.ir.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1909,14 +1823,45 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/download.php",
+                "path": "\/news",
                 "headers": {
-                    "Host": "sertraline.adaspoloandco.com"
+                    "Host": "cdn-pro2.postshup.ir."
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 13",
+            "tag": "❔XX | 🔴 | vless | 3YED | 26",
+            "type": "vless",
+            "server": "199.232.78.159",
+            "server_port": 443,
+            "uuid": "b2bfb4f3-f4c3-4323-9810-a086fef2f25d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "default.ssl.fastly.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "default.ssl.fastly.net"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 27",
             "type": "vless",
             "server": "panel.config.myproject.tr",
             "server_port": 443,
@@ -1941,35 +1886,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "VBrn2a7LcurS1zJBvxOSFFlsCvLjn5cS2mES58pBSUs",
                     "short_id": "bc79964fb856c2f9"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 14",
-            "type": "vless",
-            "server": "198.105.123.142",
-            "server_port": 7443,
-            "uuid": "6ca8ea5b-e47f-4c19-adee-365456e1e87c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
-                    "short_id": "be0ce047"
                 }
             }
         },
@@ -2147,6 +2063,23 @@ https://github.com/3yed-61
                 "headers": {
                     "Host": "client.bluwave.ir"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 1",
+            "type": "vmess",
+            "server": null,
+            "server_port": 0,
+            "uuid": null,
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         }
     ],
