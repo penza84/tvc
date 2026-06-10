@@ -122,10 +122,10 @@ dns:
 proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 9","type":"vmess","server":"158.69.208.120","port":"80","cipher":"auto","uuid":"bed62ee5-2b42-41b0-aeae-e95d043da869","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 10","type":"vmess","server":"158.69.208.120","port":"80","cipher":"auto","uuid":"bed62ee5-2b42-41b0-aeae-e95d043da869","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 12","type":"vmess","server":"172.105.223.136","port":443,"cipher":"auto","uuid":"8964ea79-1422-460e-b6e2-a16e83a22aab","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"www.microsoft.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 13","type":"vmess","server":"104.25.228.138","port":"2052","cipher":"auto","uuid":"1dbf5c96-31cb-4fd7-8f63-ba8d2bdace34","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/u4eCZTxW","headers":{"host":"jpafzyhfsg3.yofnhkfc.xyz"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 12","type":"vmess","server":"47.86.43.242","port":35987,"cipher":"auto","uuid":"cdb1236d-7bd5-4213-9371-6407c2ac85b0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 13","type":"vmess","server":"156.245.8.144","port":443,"cipher":"auto","uuid":"63b4b829-7f01-4e26-b037-f04b1f098765","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1690973478986","headers":{"host":""}}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -134,7 +134,7 @@ proxy-groups:
       - FALLBACK
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 9'
+      - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 12'
       - '❔XX | 🟢 | vmess | 3YED | 13'
@@ -146,7 +146,7 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 9'
+      - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 12'
       - '❔XX | 🟢 | vmess | 3YED | 13'
@@ -157,7 +157,7 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 9'
+      - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 12'
       - '❔XX | 🟢 | vmess | 3YED | 13'
