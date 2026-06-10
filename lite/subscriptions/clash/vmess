@@ -122,8 +122,8 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 10","type":"vmess","server":"158.69.208.120","port":"80","cipher":"auto","uuid":"bed62ee5-2b42-41b0-aeae-e95d043da869","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v1","headers":{"host":""}}}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 12","type":"vmess","server":"47.86.43.242","port":35987,"cipher":"auto","uuid":"cdb1236d-7bd5-4213-9371-6407c2ac85b0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":""}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 13","type":"vmess","server":"156.245.8.144","port":443,"cipher":"auto","uuid":"63b4b829-7f01-4e26-b037-f04b1f098765","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1690973478986","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 12","type":"vmess","server":"203.30.188.189","port":443,"cipher":"auto","uuid":"56a2188b-2ab7-402c-b9b8-34847fdf0958","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/5QNROSRV","headers":{"host":"oplg1.zhujicn2.com"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 13","type":"vmess","server":"162.159.248.31","port":2095,"cipher":"auto","uuid":"417d27fb-cb93-3bd8-9bf7-71cd91319821","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/hgcefomn","headers":{"host":""}}}
 proxy-groups:
   - name: MANUAL
     type: select
