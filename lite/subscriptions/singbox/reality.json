@@ -106,7 +106,6 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇬🇧GB | 🟢 | vless | 3YED | 2",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🟢 | vless | 3YED | 15",
                 "❔XX | 🟢 | vless | 3YED | 10",
@@ -124,7 +123,6 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇬🇧GB | 🟢 | vless | 3YED | 2",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🟢 | vless | 3YED | 15",
                 "❔XX | 🟢 | vless | 3YED | 10",
@@ -156,35 +154,6 @@ https://github.com/3yed-61
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "167.104.223.57",
-            "server_port": 7443,
-            "uuid": "adea61c0-0bb2-4ad3-8dba-7766eebd50f8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.microsoft.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
-                    "short_id": "d82fb387"
-                }
-            }
         },
         {
             "tag": "🇷🇺RU | 🟢 | vless | 3YED | 7",
