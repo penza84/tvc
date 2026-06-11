@@ -118,7 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇦🇪AE | 🟢 | ss | 3YED | 2","type":"ss","server":"95.182.89.179","port":1012,"password":"GFH34e","cipher":"aes-256-gcm"}
+  - {"name":"❔XX | 🟢 | ss | 3YED | 2","type":"ss","server":"95.182.89.179","port":1012,"password":"GFH34e","cipher":"aes-256-gcm"}
   - {"name":"❔XX | 🟢 | ss | 3YED | 4","type":"ss","server":"45.38.60.81","port":1011,"password":"Bd7XkL","cipher":"aes-256-gcm"}
   - {"name":"❔XX | 🟢 | ss | 3YED | 6","type":"ss","server":"31.56.113.147","port":1015,"password":"1RRIY6","cipher":"aes-256-gcm"}
   - {"name":"❔XX | 🟢 | ss | 3YED | 11","type":"ss","server":"188.130.207.77","port":1018,"password":"Tu3PxL","cipher":"aes-256-gcm"}
@@ -128,7 +128,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇦🇪AE | 🟢 | ss | 3YED | 2'
+      - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
       - '❔XX | 🟢 | ss | 3YED | 11'
@@ -138,7 +138,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇦🇪AE | 🟢 | ss | 3YED | 2'
+      - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
       - '❔XX | 🟢 | ss | 3YED | 11'
@@ -147,7 +147,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇦🇪AE | 🟢 | ss | 3YED | 2'
+      - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
       - '❔XX | 🟢 | ss | 3YED | 11'
