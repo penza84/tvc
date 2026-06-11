@@ -107,8 +107,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇨🇭CH | 🔴 | vless | 3YED | 0",
-                "🇫🇷FR | 🟢 | vless | 3YED | 15",
+                "🇨🇭CH | 🔴 | vless | 3YED | 1",
+                "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -125,8 +125,8 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇨🇭CH | 🔴 | vless | 3YED | 0",
-                "🇫🇷FR | 🟢 | vless | 3YED | 15",
+                "🇨🇭CH | 🔴 | vless | 3YED | 1",
+                "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -187,7 +187,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 0",
+            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "germany-vip.soft26.ir",
             "server_port": 8443,
@@ -216,7 +216,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | 3YED | 15",
+            "tag": "🇫🇷FR | 🟢 | vless | 3YED | 16",
             "type": "vless",
             "server": "51.255.71.16",
             "server_port": 443,
