@@ -121,7 +121,7 @@ proxies:
   - {"name":"❔XX | 🟢 | ss | 3YED | 2","type":"ss","server":"95.182.89.179","port":1012,"password":"GFH34e","cipher":"aes-256-gcm"}
   - {"name":"❔XX | 🟢 | ss | 3YED | 4","type":"ss","server":"45.38.60.81","port":1011,"password":"Bd7XkL","cipher":"aes-256-gcm"}
   - {"name":"❔XX | 🟢 | ss | 3YED | 6","type":"ss","server":"31.56.113.147","port":1015,"password":"1RRIY6","cipher":"aes-256-gcm"}
-  - {"name":"❔XX | 🟢 | ss | 3YED | 11","type":"ss","server":"188.130.207.77","port":1018,"password":"Tu3PxL","cipher":"aes-256-gcm"}
+  - {"name":"🇫🇷FR | 🟢 | ss | 3YED | 11","type":"ss","server":"188.130.207.77","port":1018,"password":"Tu3PxL","cipher":"aes-256-gcm"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -131,7 +131,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
-      - '❔XX | 🟢 | ss | 3YED | 11'
+      - '🇫🇷FR | 🟢 | ss | 3YED | 11'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -141,7 +141,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
-      - '❔XX | 🟢 | ss | 3YED | 11'
+      - '🇫🇷FR | 🟢 | ss | 3YED | 11'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -150,7 +150,7 @@ proxy-groups:
       - '❔XX | 🟢 | ss | 3YED | 2'
       - '❔XX | 🟢 | ss | 3YED | 4'
       - '❔XX | 🟢 | ss | 3YED | 6'
-      - '❔XX | 🟢 | ss | 3YED | 11'
+      - '🇫🇷FR | 🟢 | ss | 3YED | 11'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve

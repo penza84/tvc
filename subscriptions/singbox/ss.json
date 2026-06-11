@@ -108,7 +108,7 @@
                 "❔XX | 🟢 | ss | 3YED | 2",
                 "❔XX | 🟢 | ss | 3YED | 4",
                 "❔XX | 🟢 | ss | 3YED | 6",
-                "❔XX | 🟢 | ss | 3YED | 11"
+                "🇫🇷FR | 🟢 | ss | 3YED | 11"
             ]
         },
         {
@@ -118,7 +118,7 @@
                 "❔XX | 🟢 | ss | 3YED | 2",
                 "❔XX | 🟢 | ss | 3YED | 4",
                 "❔XX | 🟢 | ss | 3YED | 6",
-                "❔XX | 🟢 | ss | 3YED | 11"
+                "🇫🇷FR | 🟢 | ss | 3YED | 11"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -171,7 +171,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | 3YED | 11",
+            "tag": "🇫🇷FR | 🟢 | ss | 3YED | 11",
             "type": "shadowsocks",
             "server": "188.130.207.77",
             "server_port": 1018,

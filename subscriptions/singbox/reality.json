@@ -147,8 +147,7 @@
                 "❔XX | 🔴 | vless | 3YED | 42",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "🇸🇦SA | 🟢 | vless | 3YED | 0",
-                "🇮🇷IR | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -160,9 +159,9 @@
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 17",
-                "❔XX | 🟢 | vless | 3YED | 18",
-                "❔XX | 🟢 | vless | 3YED | 27",
+                "🇩🇪DE | 🟢 | vless | 3YED | 17",
+                "🇩🇪DE | 🟢 | vless | 3YED | 18",
+                "🇹🇷TR | 🟢 | vless | 3YED | 27",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -224,8 +223,7 @@
                 "❔XX | 🔴 | vless | 3YED | 42",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "🇸🇦SA | 🟢 | vless | 3YED | 0",
-                "🇮🇷IR | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -237,9 +235,9 @@
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 17",
-                "❔XX | 🟢 | vless | 3YED | 18",
-                "❔XX | 🟢 | vless | 3YED | 27",
+                "🇩🇪DE | 🟢 | vless | 3YED | 17",
+                "🇩🇪DE | 🟢 | vless | 3YED | 18",
+                "🇹🇷TR | 🟢 | vless | 3YED | 27",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -1535,7 +1533,7 @@
             }
         },
         {
-            "tag": "🇸🇦SA | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 1",
             "type": "vless",
             "server": "192.142.12.67",
             "server_port": 443,
@@ -1561,42 +1559,6 @@
                     "public_key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
                     "short_id": ""
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 6",
-            "type": "vless",
-            "server": "87.107.193.3",
-            "server_port": 8443,
-            "uuid": "a1c30f35-e254-409c-89be-7754fed29ab0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.sanjesh.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "XG7zu6GMH-maiYcacOIcbiDB9WwwNZLUmOkOp7nmcmw",
-                    "short_id": "0f"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "client",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
@@ -1940,7 +1902,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 17",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 17",
             "type": "vless",
             "server": "finporkzov.com",
             "server_port": 443,
@@ -1969,7 +1931,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 18",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 18",
             "type": "vless",
             "server": "167.172.108.83",
             "server_port": 443,
@@ -1998,7 +1960,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 27",
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 27",
             "type": "vless",
             "server": "panel.config.myproject.tr",
             "server_port": 443,
