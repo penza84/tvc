@@ -107,7 +107,7 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇨🇭CH | 🔴 | vless | 3YED | 1",
+                "🇵🇱PL | 🔴 | vless | 3YED | 1",
                 "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -125,7 +125,7 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇨🇭CH | 🔴 | vless | 3YED | 1",
+                "🇵🇱PL | 🔴 | vless | 3YED | 1",
                 "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -187,11 +187,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 1",
+            "tag": "🇵🇱PL | 🔴 | vless | 3YED | 1",
             "type": "vless",
-            "server": "germany-vip.soft26.ir",
-            "server_port": 8443,
-            "uuid": "d39664df-5bc0-4f49-9894-8f03b4150082",
+            "server": "31.56.188.15",
+            "server_port": 7443,
+            "uuid": "1c0277ad-bb4d-496f-bc0c-40ccee03fca5",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -201,17 +201,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "mi.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg",
-                    "short_id": "6f3192"
+                    "public_key": "5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI",
+                    "short_id": "be0ce047"
                 }
             }
         },
