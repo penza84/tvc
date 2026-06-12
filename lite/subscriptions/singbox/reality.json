@@ -109,6 +109,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "🇷🇺RU | 🟢 | vless | 3YED | 42",
+                "🇹🇷TR | 🟢 | vless | 3YED | 9",
+                "🇨🇭CH | 🔴 | vless | 3YED | 10",
                 "🇨🇭CH | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -128,6 +130,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🟢 | vless | 3YED | 16",
                 "🇷🇺RU | 🟢 | vless | 3YED | 42",
+                "🇹🇷TR | 🟢 | vless | 3YED | 9",
+                "🇨🇭CH | 🔴 | vless | 3YED | 10",
                 "🇨🇭CH | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -243,6 +247,64 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
                     "short_id": "a1b2c3d4e5f6789a"
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 9",
+            "type": "vless",
+            "server": "noyn.battlenetcp.com",
+            "server_port": 2087,
+            "uuid": "589a0172-46c2-4268-a786-839fd6ff2631",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.amazon.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "zl5BMQRrklkzeO01YoSEcvW7BUCq-YSbkDYyovtwQCE",
+                    "short_id": "0f0b"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 10",
+            "type": "vless",
+            "server": "germany-vip.soft26.ir",
+            "server_port": 8443,
+            "uuid": "d39664df-5bc0-4f49-9894-8f03b4150082",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg",
+                    "short_id": "6f3192"
                 }
             }
         },
