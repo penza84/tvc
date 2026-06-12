@@ -13,11 +13,11 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🇨🇦CA | 🟢 | vmess | 3YED | 11 = vmess, 158.69.208.120, 80, username = bed62ee5-2b42-41b0-aeae-e95d043da869, ws = true, tls = , vmess-aead = true, ws-path = /api/v1, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 18 = vmess, 104.16.149.244, 2086, username = e9e3cc13-db48-4cc1-8c24-7626439a5339, ws = true, tls = , vmess-aead = true, ws-path = github.com/Alvin9999, ws-headers = Host:"ip1.1789034.xyz", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 17 = vmess, 162.159.62.69, 443, username = b3a21def-5fcc-47a8-a6a0-a34e29d5288a, ws = true, tls = 1, vmess-aead = false, ws-path = /wss51068, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 18
-URL-TEST = url-test,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 18
-FALLBACK = fallback,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 18
+MANUAL = select,URL-TEST,FALLBACK,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 17
+URL-TEST = url-test,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 17
+FALLBACK = fallback,🇨🇦CA | 🟢 | vmess | 3YED | 11,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 17
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
