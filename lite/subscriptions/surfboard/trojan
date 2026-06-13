@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🟢 | trojan | 3YED | 12 = trojan, 18.192.188.251, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 13 = trojan, 15.237.134.240, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 12 = trojan, 18.192.188.251, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 13 = trojan, 15.237.134.240, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🔴 | trojan | 3YED | 2 = trojan, 18.192.188.251, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = true, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 7 = trojan, 104.19.229.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 10 = trojan, 3.78.191.119, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 11 = trojan, 52.47.178.252, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | 3YED | 10 = trojan, 3.78.191.119, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 11 = trojan, 52.47.178.252, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🔴 | trojan | 3YED | 3 = trojan, 18.192.188.251, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = true, ws = false
+🇺🇸US | 🔴 | trojan | 3YED | 8 = trojan, 104.19.229.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 2,🇺🇸US | 🔴 | trojan | 3YED | 7
-URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 2,🇺🇸US | 🔴 | trojan | 3YED | 7
-FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 2,🇺🇸US | 🔴 | trojan | 3YED | 7
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🔴 | trojan | 3YED | 3,🇺🇸US | 🔴 | trojan | 3YED | 8
+URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🔴 | trojan | 3YED | 3,🇺🇸US | 🔴 | trojan | 3YED | 8
+FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🟢 | trojan | 3YED | 10,🇫🇷FR | 🟢 | trojan | 3YED | 11,🇩🇪DE | 🔴 | trojan | 3YED | 3,🇺🇸US | 🔴 | trojan | 3YED | 8
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

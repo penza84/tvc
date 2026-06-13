@@ -109,7 +109,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇷🇺RU | 🟢 | vless | 3YED | 50",
                 "🇨🇭CH | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 10",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 5",
@@ -126,7 +127,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇷🇺RU | 🟢 | vless | 3YED | 50",
                 "🇨🇭CH | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 10",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 5",
@@ -243,7 +245,36 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 10",
+            "tag": "❔XX | 🟢 | vless | 3YED | 7",
+            "type": "vless",
+            "server": "85.208.139.98",
+            "server_port": 8444,
+            "uuid": "c931f737-cafe-4e4f-998a-a65517941256",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdnjs.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik",
+                    "short_id": "77e934f68f02ab4c"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "panel.panel.pythash.tr",
             "server_port": 443,
