@@ -107,9 +107,9 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 50",
-                "🇨🇭CH | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 7",
+                "🇷🇺RU | 🟢 | vless | 3YED | 55",
+                "❔XX | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -125,9 +125,9 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 50",
-                "🇨🇭CH | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 7",
+                "🇷🇺RU | 🟢 | vless | 3YED | 55",
+                "❔XX | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -187,7 +187,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 50",
+            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 55",
             "type": "vless",
             "server": "b3aa11az-k15gg1.ru.y-tun.com",
             "server_port": 8443,
@@ -216,7 +216,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "germany-vip.soft26.ir",
             "server_port": 8443,
@@ -245,7 +245,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 7",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "85.208.139.98",
             "server_port": 8444,
