@@ -118,10 +118,10 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 14","type":"trojan","server":"52.47.178.252","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"51.44.149.159","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 14","type":"trojan","server":"52.47.178.252","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"51.44.149.159","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 12","type":"trojan","server":"13.38.234.91","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 13","type":"trojan","server":"15.236.184.10","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 12","type":"trojan","server":"13.38.234.91","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 13","type":"trojan","server":"15.236.184.10","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 0","type":"trojan","server":"185.137.157.254","port":443,"udp":false,"password":"hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.directorypipeline.click"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 1","type":"trojan","server":"194.5.192.89","port":443,"udp":false,"password":"SoftNetConnect","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.yahoo.com"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 8","type":"trojan","server":"104.19.229.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
@@ -131,10 +131,10 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 0'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 1'
       - '🇺🇸US | 🔴 | trojan | 3YED | 8'
@@ -144,10 +144,10 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 0'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 1'
       - '🇺🇸US | 🔴 | trojan | 3YED | 8'
@@ -156,10 +156,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 14'
-      - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 0'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 1'
       - '🇺🇸US | 🔴 | trojan | 3YED | 8'
