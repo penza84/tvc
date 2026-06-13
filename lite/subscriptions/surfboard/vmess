@@ -12,11 +12,12 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 14 = vmess, 89.163.213.20, 80, username = 5668ff97-631f-4602-a13f-b56552c67abe, ws = true, tls = , vmess-aead = false, ws-path = /vmess, ws-headers = Host:"", skip-cert-verify = true, tfo = false
+🇺🇸US | 🟢 | vmess | 3YED | 12 = vmess, 172.67.145.166, 443, username = c5a2d7b8-bf84-4f97-8577-b9b87f2baaf7, ws = true, tls = 1, vmess-aead = false, ws-path = /AUIKN8AU, ws-headers = Host:"", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 13 = vmess, 18.167.121.42, 35781, username = d3978bd0-dade-4181-81de-bae3091339f1, ws = true, tls = , vmess-aead = false, ws-path = /hk.wumaojichang.ml, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 14
-URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 14
-FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 14
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,🇺🇸US | 🟢 | vmess | 3YED | 12,❔XX | 🟢 | vmess | 3YED | 13
+URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,🇺🇸US | 🟢 | vmess | 3YED | 12,❔XX | 🟢 | vmess | 3YED | 13
+FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,🇺🇸US | 🟢 | vmess | 3YED | 12,❔XX | 🟢 | vmess | 3YED | 13
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
