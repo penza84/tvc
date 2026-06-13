@@ -116,10 +116,10 @@
                 "❔XX | 🟢 | vless | 3YED | 23",
                 "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🟢 | vless | 3YED | 50",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 10",
+                "🚩CF | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
+                "🇩🇪DE | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
                 "🇳🇱NL | 🟢 | vless | 3YED | 8",
                 "🇩🇪DE | 🔴 | vless | 3YED | 9",
@@ -157,8 +157,8 @@
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 18",
                 "❔XX | 🟢 | vless | 3YED | 19",
+                "❔XX | 🟢 | vless | 3YED | 20",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -189,10 +189,10 @@
                 "❔XX | 🟢 | vless | 3YED | 23",
                 "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🟢 | vless | 3YED | 50",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 10",
+                "🚩CF | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
+                "🇩🇪DE | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
                 "🇳🇱NL | 🟢 | vless | 3YED | 8",
                 "🇩🇪DE | 🔴 | vless | 3YED | 9",
@@ -230,8 +230,8 @@
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 18",
                 "❔XX | 🟢 | vless | 3YED | 19",
+                "❔XX | 🟢 | vless | 3YED | 20",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -600,7 +600,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "🚩CF | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "germany-vip.soft26.ir",
             "server_port": 8443,
@@ -629,7 +629,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "64.188.71.108",
             "server_port": 26426,
@@ -658,7 +658,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "85.208.139.98",
             "server_port": 8444,
@@ -687,7 +687,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 10",
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "panel.panel.pythash.tr",
             "server_port": 443,
@@ -1838,7 +1838,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 18",
+            "tag": "❔XX | 🟢 | vless | 3YED | 19",
             "type": "vless",
             "server": "finporkzov.com",
             "server_port": 443,
@@ -1867,7 +1867,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 19",
+            "tag": "❔XX | 🟢 | vless | 3YED | 20",
             "type": "vless",
             "server": "167.172.108.83",
             "server_port": 443,
