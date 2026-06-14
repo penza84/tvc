@@ -149,6 +149,7 @@
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -223,6 +224,7 @@
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
+                "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
@@ -1556,6 +1558,35 @@
                     "enabled": true,
                     "public_key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "45.195.137.72",
+            "server_port": 8443,
+            "uuid": "97bf06ad-c9a8-4ea4-afb5-9092cc092214",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "storage.yandex.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY",
+                    "short_id": "40ce08cf20c67003"
                 }
             }
         },
