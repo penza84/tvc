@@ -107,17 +107,16 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 1",
-                "🇫🇮FI | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 11",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇫🇮FI | 🟢 | vless | 3YED | 3",
+                "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "🇸🇦SA | 🟢 | vless | 3YED | 5",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ]
@@ -127,17 +126,16 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 1",
-                "🇫🇮FI | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 11",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇫🇮FI | 🟢 | vless | 3YED | 3",
+                "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "🇸🇦SA | 🟢 | vless | 3YED | 5",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ],
@@ -191,7 +189,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 1",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "23.26.37.119",
             "server_port": 8443,
@@ -220,7 +218,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 2",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 3",
             "type": "vless",
             "server": "45.195.110.137",
             "server_port": 8443,
@@ -249,36 +247,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
-            "type": "vless",
-            "server": "bel1.pandaonline.org",
-            "server_port": 443,
-            "uuid": "84539eef-b551-4d41-b85f-4b07c83db922",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bel1.pandaonline.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "tag": "🇺🇸US | 🟢 | vless | 3YED | 0",
             "type": "vless",
             "server": "137.184.218.169",
             "server_port": 36925,
@@ -365,7 +334,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -394,7 +363,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "tag": "🇸🇦SA | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "192.142.12.67",
             "server_port": 443,
@@ -423,7 +392,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "de.srv.anti-zapret.com",
             "server_port": 443,
@@ -488,7 +457,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 84",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,

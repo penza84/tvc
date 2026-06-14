@@ -120,10 +120,10 @@ dns:
 proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 0","type":"vmess","server":"digi21.ez0535.com","port":"443","cipher":"auto","uuid":"b5406cd3-1a11-4c78-b346-7763fcc9e476","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇷IR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"digi21.ez0535.com","port":"443","cipher":"auto","uuid":"b5406cd3-1a11-4c78-b346-7763fcc9e476","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 11","type":"vmess","server":"203.24.108.10","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/A2DJOPFT","headers":{"host":""}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 12","type":"vmess","server":"sdhdffjblkgfh_cdn.hfhfb.homes","port":"2095","cipher":"auto","uuid":"f76a8afe-2788-40f4-9b1b-f35bf82dacf5","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=1024","headers":{"host":"itcdn.fask511.cfd"}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 11","type":"vmess","server":"172.67.188.110","port":2095,"cipher":"auto","uuid":"417d27fb-cb93-3bd8-9bf7-71cd91319821","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/hgcefomn","headers":{"host":""}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 12","type":"vmess","server":"172.67.75.194","port":2086,"cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip1.1789034.xyz"}}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -132,10 +132,10 @@ proxy-groups:
       - FALLBACK
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 0'
+      - '🇮🇷IR | 🟢 | vmess | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 11'
-      - '❔XX | 🟢 | vmess | 3YED | 12'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -144,10 +144,10 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 0'
+      - '🇮🇷IR | 🟢 | vmess | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 11'
-      - '❔XX | 🟢 | vmess | 3YED | 12'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -155,10 +155,10 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '❔XX | 🟢 | vmess | 3YED | 0'
+      - '🇮🇷IR | 🟢 | vmess | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 11'
-      - '❔XX | 🟢 | vmess | 3YED | 12'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
