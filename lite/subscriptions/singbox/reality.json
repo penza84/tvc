@@ -112,11 +112,11 @@ https://github.com/3yed-61
                 "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "🇸🇦SA | 🟢 | vless | 3YED | 5",
-                "🇩🇪DE | 🟢 | vless | 3YED | 6",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "🇺🇸US | 🔴 | vless | 3YED | 84",
+                "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ]
@@ -131,11 +131,11 @@ https://github.com/3yed-61
                 "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "🇨🇦CA | 🔴 | vless | 3YED | 45",
-                "🇸🇦SA | 🟢 | vless | 3YED | 5",
-                "🇩🇪DE | 🟢 | vless | 3YED | 6",
+                "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 83",
-                "🇺🇸US | 🔴 | vless | 3YED | 84",
+                "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ],
@@ -334,7 +334,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
+            "tag": "❔XX | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -363,7 +363,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇸🇦SA | 🟢 | vless | 3YED | 5",
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "192.142.12.67",
             "server_port": 443,
@@ -392,7 +392,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 6",
+            "tag": "❔XX | 🟢 | vless | 3YED | 9",
             "type": "vless",
             "server": "de.srv.anti-zapret.com",
             "server_port": 443,
@@ -457,7 +457,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 84",
+            "tag": "❔XX | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
