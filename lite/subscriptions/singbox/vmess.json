@@ -110,9 +110,9 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🇺🇸US | 🟢 | vmess | 3YED | 5",
-                "🇺🇸US | 🟢 | vmess | 3YED | 13",
-                "🇺🇸US | 🟢 | vmess | 3YED | 14",
-                "🇬🇧GB | 🟢 | vmess | 3YED | 13",
+                "🇨🇦CA | 🟢 | vmess | 3YED | 11",
+                "🇺🇸US | 🟢 | vmess | 3YED | 12",
+                "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
@@ -124,9 +124,9 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🇺🇸US | 🟢 | vmess | 3YED | 5",
-                "🇺🇸US | 🟢 | vmess | 3YED | 13",
-                "🇺🇸US | 🟢 | vmess | 3YED | 14",
-                "🇬🇧GB | 🟢 | vmess | 3YED | 13",
+                "🇨🇦CA | 🟢 | vmess | 3YED | 11",
+                "🇺🇸US | 🟢 | vmess | 3YED | 12",
+                "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -242,11 +242,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 13",
+            "tag": "🇨🇦CA | 🟢 | vmess | 3YED | 11",
             "type": "vmess",
-            "server": "104.21.61.197",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "23.227.38.3",
+            "server_port": 2086,
+            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -257,32 +257,22 @@ https://github.com/3yed-61
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "to.tilebani.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "to.tilebani.com"
+                    "Host": "23.227.38.3"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 14",
+            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 12",
             "type": "vmess",
-            "server": "162.159.152.2",
+            "server": "170.178.179.189",
             "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 64,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -293,7 +283,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "obdii.cfd",
+                "server_name": "",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -303,14 +293,14 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkws",
+                "path": "\/path\/031730091420",
                 "headers": {
-                    "Host": "obdii.cfd"
+                    "Host": ""
                 }
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vmess | 3YED | 13",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 14",
             "type": "vmess",
             "server": "3.9.115.249",
             "server_port": 1002,

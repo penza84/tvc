@@ -107,17 +107,17 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 62",
-                "🇨🇭CH | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🟢 | vless | 3YED | 0",
+                "🇫🇮FI | 🟢 | vless | 3YED | 1",
+                "🇨🇭CH | 🔴 | vless | 3YED | 8",
                 "🇩🇪DE | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
                 "🇸🇦SA | 🟢 | vless | 3YED | 5",
-                "🇩🇪DE | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
-                "🇩🇪DE | 🟢 | vless | 3YED | 20",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ]
@@ -127,17 +127,17 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 62",
-                "🇨🇭CH | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🟢 | vless | 3YED | 0",
+                "🇫🇮FI | 🟢 | vless | 3YED | 1",
+                "🇨🇭CH | 🔴 | vless | 3YED | 8",
                 "🇩🇪DE | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "🇨🇦CA | 🔴 | vless | 3YED | 45",
                 "🇸🇦SA | 🟢 | vless | 3YED | 5",
-                "🇩🇪DE | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
-                "🇩🇪DE | 🟢 | vless | 3YED | 20",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19"
             ],
@@ -191,11 +191,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 62",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 0",
             "type": "vless",
-            "server": "b3aa11az-k15gg1.ru.y-tun.com",
+            "server": "23.26.37.119",
             "server_port": 8443,
-            "uuid": "17172b99-16ae-4453-99f9-bd15191228a9",
+            "uuid": "dcba77d7-bb59-4802-b32c-37fd7011fca4",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -205,22 +205,51 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "api-maps.yandex.ru",
+                "server_name": "google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "qq"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM",
-                    "short_id": "a1b2c3d4e5f6789a"
+                    "public_key": "upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo",
+                    "short_id": "3ca620a7ed5f3196"
                 }
             }
         },
         {
-            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 7",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "45.195.110.137",
+            "server_port": 8443,
+            "uuid": "b43c0481-77f7-48ad-af5e-91ebbdaccacc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "storage.yandex.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc",
+                    "short_id": "a1cb4af60a34ff8e"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 8",
             "type": "vless",
             "server": "germany-vip.soft26.ir",
             "server_port": 8443,
@@ -394,7 +423,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "de.srv.anti-zapret.com",
             "server_port": 443,
@@ -492,35 +521,6 @@ https://github.com/3yed-61
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 20",
-            "type": "vless",
-            "server": "finporkzov.com",
-            "server_port": 443,
-            "uuid": "8361e3fc-479d-466f-9583-4971c2cf2d03",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "finporkzov.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I",
-                    "short_id": "f00f58383241c807"
-                }
             }
         },
         {

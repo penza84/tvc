@@ -123,8 +123,9 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 14","type":"vmess","server":"162.159.152.2","port":"443","cipher":"auto","uuid":"05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"obdii.cfd"}}}
-  - {"name":"🇬🇧GB | 🟢 | vmess | 3YED | 13","type":"vmess","server":"3.9.115.249","port":"1002","cipher":"auto","uuid":"7fa05773-c60c-4a51-8842-11d66067587f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇦CA | 🟢 | vmess | 3YED | 11","type":"vmess","server":"23.227.38.3","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip2.1457230.xyz"}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 12","type":"vmess","server":"170.178.179.189","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/031730091420","headers":{"host":""}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 14","type":"vmess","server":"3.9.115.249","port":"1002","cipher":"auto","uuid":"7fa05773-c60c-4a51-8842-11d66067587f","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -134,8 +135,9 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 14'
-      - '🇬🇧GB | 🟢 | vmess | 3YED | 13'
+      - '🇨🇦CA | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -145,8 +147,9 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 14'
-      - '🇬🇧GB | 🟢 | vmess | 3YED | 13'
+      - '🇨🇦CA | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -155,8 +158,9 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 14'
-      - '🇬🇧GB | 🟢 | vmess | 3YED | 13'
+      - '🇨🇦CA | 🟢 | vmess | 3YED | 11'
+      - '🇺🇸US | 🟢 | vmess | 3YED | 12'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
