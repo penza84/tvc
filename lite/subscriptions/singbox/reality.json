@@ -113,9 +113,9 @@ https://github.com/3yed-61
                 "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "🇸🇦SA | 🟢 | vless | 3YED | 6",
+                "🇩🇪DE | 🟢 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -133,9 +133,9 @@ https://github.com/3yed-61
                 "🇺🇸US | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 44",
-                "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "🇨🇦CA | 🔴 | vless | 3YED | 45",
+                "🇸🇦SA | 🟢 | vless | 3YED | 6",
+                "🇩🇪DE | 🟢 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 18",
@@ -365,7 +365,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 45",
+            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 45",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -394,7 +394,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇸🇦SA | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "192.142.12.67",
             "server_port": 443,
@@ -423,7 +423,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 14",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 14",
             "type": "vless",
             "server": "de.srv.anti-zapret.com",
             "server_port": 443,
