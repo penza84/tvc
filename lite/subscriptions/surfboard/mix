@@ -17,7 +17,7 @@ DIRECT = direct
 🇫🇷FR | 🟢 | trojan | 3YED | 15 = trojan, 51.45.49.57, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🇺🇸US | 🔴 | trojan | 3YED | 1 = trojan, 162.159.21.120, 443, password = e9c95d49-2e1e-4895-a164-69e2ec2830cb, udp-delay = true, skip-cert-verify = false, sni = floral-violet-e5c7.asdasfgg233424.workers.dev, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 10 = vmess, 47.244.120.197, 44867, username = 845e6b08-2919-4290-ade0-5dc7dcea59ca, ws = true, tls = , vmess-aead = false, ws-path = /, ws-headers = Host:"", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 10 = vmess, 51.79.102.253, 80, username = 58fe1542-5290-40ad-815a-77707a81afe5, ws = true, tls = , vmess-aead = false, ws-path = /IOebhLMhl1CTbFHbL95myfRX2, ws-headers = Host:"", skip-cert-verify = true, tfo = false
 [Proxy Group]
 MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇺🇸US | 🔴 | trojan | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 10
 URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇩🇪DE | 🟢 | trojan | 3YED | 14,🇫🇷FR | 🟢 | trojan | 3YED | 15,🇺🇸US | 🔴 | trojan | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 10
