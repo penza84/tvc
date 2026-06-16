@@ -106,10 +106,10 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | ss | 3YED | 0",
-                "❔XX | 🟢 | ss | 3YED | 8",
-                "❔XX | 🟢 | ss | 3YED | 10",
-                "❔XX | 🟢 | ss | 3YED | 12",
-                "❔XX | 🟢 | ss | 3YED | 17"
+                "🇦🇪AE | 🟢 | ss | 3YED | 8",
+                "🇭🇰HK | 🟢 | ss | 3YED | 10",
+                "🇫🇮FI | 🟢 | ss | 3YED | 12",
+                "🇫🇷FR | 🟢 | ss | 3YED | 17"
             ]
         },
         {
@@ -117,10 +117,10 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | ss | 3YED | 0",
-                "❔XX | 🟢 | ss | 3YED | 8",
-                "❔XX | 🟢 | ss | 3YED | 10",
-                "❔XX | 🟢 | ss | 3YED | 12",
-                "❔XX | 🟢 | ss | 3YED | 17"
+                "🇦🇪AE | 🟢 | ss | 3YED | 8",
+                "🇭🇰HK | 🟢 | ss | 3YED | 10",
+                "🇫🇮FI | 🟢 | ss | 3YED | 12",
+                "🇫🇷FR | 🟢 | ss | 3YED | 17"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -153,7 +153,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | 3YED | 8",
+            "tag": "🇦🇪AE | 🟢 | ss | 3YED | 8",
             "type": "shadowsocks",
             "server": "95.182.89.179",
             "server_port": 1012,
@@ -163,7 +163,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | 3YED | 10",
+            "tag": "🇭🇰HK | 🟢 | ss | 3YED | 10",
             "type": "shadowsocks",
             "server": "45.38.60.81",
             "server_port": 1011,
@@ -173,7 +173,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | 3YED | 12",
+            "tag": "🇫🇮FI | 🟢 | ss | 3YED | 12",
             "type": "shadowsocks",
             "server": "31.56.113.147",
             "server_port": 1015,
@@ -183,7 +183,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | 3YED | 17",
+            "tag": "🇫🇷FR | 🟢 | ss | 3YED | 17",
             "type": "shadowsocks",
             "server": "188.130.207.77",
             "server_port": 1018,
