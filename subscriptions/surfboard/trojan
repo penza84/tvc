@@ -11,32 +11,32 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-❔XX | 🟢 | trojan | 3YED | 0 = trojan, 3.66.76.176, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 1 = trojan, 3.77.229.95, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 2 = trojan, 15.188.249.44, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 3 = trojan, 13.39.52.139, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 4 = trojan, 18.157.199.79, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 5 = trojan, 18.197.78.165, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 6 = trojan, 13.36.52.200, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 7 = trojan, 35.181.85.57, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 8 = trojan, 18.193.218.173, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 9 = trojan, 3.64.2.50, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 10 = trojan, 15.188.67.19, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 11 = trojan, 15.188.218.165, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 0 = trojan, 3.66.76.176, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 1 = trojan, 3.77.229.95, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 2 = trojan, 15.188.249.44, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 3 = trojan, 13.39.52.139, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 4 = trojan, 18.157.199.79, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 5 = trojan, 18.197.78.165, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 6 = trojan, 13.36.52.200, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 7 = trojan, 35.181.85.57, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 8 = trojan, 18.193.218.173, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 9 = trojan, 3.64.2.50, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 10 = trojan, 15.188.67.19, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 11 = trojan, 15.188.218.165, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🔴 | trojan | 3YED | 0 = trojan, 194.5.193.58, 42549, password = SoftNetConnect, udp-delay = true, skip-cert-verify = true, sni = www.speedtest.net, ws = false
-❔XX | 🔴 | trojan | 3YED | 1 = trojan, 38.54.13.189, 443, password = lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🟢 | trojan | 3YED | 0 = trojan, 13.36.49.219, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 1 = trojan, 3.66.76.176, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 2 = trojan, 3.77.229.95, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 3 = trojan, 15.188.249.44, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 4 = trojan, 13.39.52.139, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 5 = trojan, 18.157.199.79, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 6 = trojan, 18.197.78.165, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 7 = trojan, 13.36.52.200, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 8 = trojan, 35.181.85.57, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 9 = trojan, 18.193.218.173, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 10 = trojan, 3.64.2.50, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 11 = trojan, 15.188.67.19, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 0 = trojan, 13.36.49.219, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 1 = trojan, 3.66.76.176, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 2 = trojan, 3.77.229.95, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 3 = trojan, 15.188.249.44, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 4 = trojan, 13.39.52.139, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 5 = trojan, 18.157.199.79, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 6 = trojan, 18.197.78.165, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 7 = trojan, 13.36.52.200, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 8 = trojan, 35.181.85.57, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 9 = trojan, 18.193.218.173, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 10 = trojan, 3.64.2.50, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | 3YED | 11 = trojan, 15.188.67.19, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🔴 | trojan | 3YED | 0 = trojan, 144.31.55.10, 10295, password = c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU, udp-delay = true, skip-cert-verify = true, sni = www.spotwebs.click, ws = false
+❔XX | 🔴 | trojan | 3YED | 1 = trojan, 194.5.193.58, 42549, password = SoftNetConnect, udp-delay = true, skip-cert-verify = true, sni = www.speedtest.net, ws = false
 🚩CF | 🔴 | trojan | 3YED | 5 = trojan, 104.16.71.213, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmlunch.com, ws = false
 [Proxy Group]
 MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 3,❔XX | 🟢 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 8,❔XX | 🟢 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 10,❔XX | 🟢 | trojan | 3YED | 11,❔XX | 🟢 | trojan | 3YED | 0,❔XX | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 3,❔XX | 🟢 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 8,❔XX | 🟢 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 10,❔XX | 🟢 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,🚩CF | 🔴 | trojan | 3YED | 5
