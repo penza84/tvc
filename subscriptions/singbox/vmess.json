@@ -138,7 +138,7 @@
                 "🚩CF | 🟢 | vmess | 3YED | 8",
                 "🚩CF | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 10",
-                "❔XX | 🟢 | vmess | 3YED | 6"
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ]
         },
         {
@@ -178,7 +178,7 @@
                 "🚩CF | 🟢 | vmess | 3YED | 8",
                 "🚩CF | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 10",
-                "❔XX | 🟢 | vmess | 3YED | 6"
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -974,7 +974,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 6",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 7",
             "type": "vmess",
             "server": "3.9.115.249",
             "server_port": 1002,
