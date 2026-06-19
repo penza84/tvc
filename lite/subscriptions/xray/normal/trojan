@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
-trojan://telegram-id-privatevpns@15.188.249.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 14
-trojan://telegram-id-privatevpns@13.39.52.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 15
-trojan://telegram-id-directvpn@15.188.249.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 14
-trojan://telegram-id-directvpn@13.39.52.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 15
+trojan://telegram-id-privatevpns@52.47.152.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 12
+trojan://telegram-id-privatevpns@13.36.49.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 13
+trojan://telegram-id-directvpn@52.47.152.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 12
+trojan://telegram-id-directvpn@13.36.49.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 13
 trojan://MiTiVPN@45.131.4.118:443?alpn=http/1.1&fp=chrome&host=linkkon-w.ir&path=/ed=mitivpn&sni=linkkon-w.ir&type=ws#🇧🇿BZ | 🔴 | trojan | 3YED | 6
 trojan://MiTiVPN@172.67.210.215:443?alpn=http/1.1&fp=chrome&host=linkkon-w.ir&path=/ed=mitivpn&sni=linkkon-w.ir&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 7
