@@ -124,8 +124,8 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 13","type":"trojan","server":"15.188.169.199","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 12","type":"trojan","server":"15.188.182.93","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 13","type":"trojan","server":"15.188.169.199","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 3","type":"trojan","server":"104.18.152.97","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
   - {"name":"🇪🇸ES | 🔴 | trojan | 3YED | 4","type":"trojan","server":"193.148.19.210","port":52794,"udp":false,"password":"2eutknankxtbgkwcajzt","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.vk.com"}
-  - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 5","type":"trojan","server":"188.164.248.122","port":443,"udp":false,"password":"6c862415-30d2-4813-8e49-42e99a0bd415","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"space.byu.id.yxls.eu.cc"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"104.16.174.12","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
 proxy-groups:
   - name: MANUAL
@@ -137,8 +137,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 4'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 2'
   - name: URL-TEST
     type: url-test
@@ -150,8 +150,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 4'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 2'
   - name: FALLBACK
     type: fallback
@@ -162,8 +162,8 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 13'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 4'
-      - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 2'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
