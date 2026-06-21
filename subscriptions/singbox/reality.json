@@ -116,12 +116,12 @@
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 15",
-                "❔XX | 🔴 | vless | 3YED | 47",
-                "❔XX | 🟢 | vless | 3YED | 48",
-                "❔XX | 🟢 | vless | 3YED | 62",
-                "❔XX | 🟢 | vless | 3YED | 69",
-                "❔XX | 🟢 | vless | 3YED | 71",
-                "❔XX | 🟢 | vless | 3YED | 77",
+                "❔XX | 🔴 | vless | 3YED | 52",
+                "❔XX | 🟢 | vless | 3YED | 53",
+                "❔XX | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 74",
+                "❔XX | 🟢 | vless | 3YED | 76",
+                "❔XX | 🟢 | vless | 3YED | 82",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 0",
@@ -181,7 +181,7 @@
                 "🇫🇷FR | 🟢 | vless | 3YED | 0",
                 "🇮🇷IR | 🟢 | vless | 3YED | 1",
                 "🇫🇷FR | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇫🇷FR | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
@@ -213,12 +213,12 @@
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 15",
-                "❔XX | 🔴 | vless | 3YED | 47",
-                "❔XX | 🟢 | vless | 3YED | 48",
-                "❔XX | 🟢 | vless | 3YED | 62",
-                "❔XX | 🟢 | vless | 3YED | 69",
-                "❔XX | 🟢 | vless | 3YED | 71",
-                "❔XX | 🟢 | vless | 3YED | 77",
+                "❔XX | 🔴 | vless | 3YED | 52",
+                "❔XX | 🟢 | vless | 3YED | 53",
+                "❔XX | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 74",
+                "❔XX | 🟢 | vless | 3YED | 76",
+                "❔XX | 🟢 | vless | 3YED | 82",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 0",
@@ -278,7 +278,7 @@
                 "🇫🇷FR | 🟢 | vless | 3YED | 0",
                 "🇮🇷IR | 🟢 | vless | 3YED | 1",
                 "🇫🇷FR | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇫🇷FR | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
@@ -648,7 +648,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 47",
+            "tag": "❔XX | 🔴 | vless | 3YED | 52",
             "type": "vless",
             "server": "90.156.254.168",
             "server_port": 443,
@@ -677,7 +677,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 48",
+            "tag": "❔XX | 🟢 | vless | 3YED | 53",
             "type": "vless",
             "server": "72.56.105.228",
             "server_port": 443,
@@ -706,7 +706,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 62",
+            "tag": "❔XX | 🟢 | vless | 3YED | 67",
             "type": "vless",
             "server": "tr.go-vpn.club",
             "server_port": 443,
@@ -735,7 +735,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 69",
+            "tag": "❔XX | 🟢 | vless | 3YED | 74",
             "type": "vless",
             "server": "ge3.pandaonline.org",
             "server_port": 443,
@@ -764,7 +764,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 71",
+            "tag": "❔XX | 🟢 | vless | 3YED | 76",
             "type": "vless",
             "server": "89.169.39.55",
             "server_port": 443,
@@ -793,7 +793,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 77",
+            "tag": "❔XX | 🟢 | vless | 3YED | 82",
             "type": "vless",
             "server": "144.31.4.220",
             "server_port": 443,
@@ -2582,7 +2582,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
+            "tag": "🇫🇷FR | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "109.202.246.144",
             "server_port": 443,
