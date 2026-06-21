@@ -6,6 +6,5 @@ trojan://telegram-id-privatevpns@15.188.182.93:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.169.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 13
 trojan://telegram-id-directvpn@15.188.182.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 12
 trojan://telegram-id-directvpn@15.188.169.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 13
+trojan://MiTiVPN@151.101.1.194:443?allowInsecure=1&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&path=/ed&sni=global.fastly.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 2
 trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 3
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#🇪🇸ES | 🔴 | trojan | 3YED | 4
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#❔XX | 🔴 | trojan | 3YED | 2
