@@ -107,7 +107,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇦🇪AE | 🟢 | vless | 3YED | 2",
+                "🇳🇱NL | 🟢 | vless | 3YED | 15",
+                "🇦🇪AE | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -124,7 +125,8 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇦🇪AE | 🟢 | vless | 3YED | 2",
+                "🇳🇱NL | 🟢 | vless | 3YED | 15",
+                "🇦🇪AE | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -185,7 +187,36 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇦🇪AE | 🟢 | vless | 3YED | 2",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 15",
+            "type": "vless",
+            "server": "94.156.117.79",
+            "server_port": 8443,
+            "uuid": "3dc68a32-43aa-4b5e-a60f-e11b27d03edc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "XEOvGJLIn0iPDT1R71F8FCKet0XHg-NTn0sSxurlvV8",
+                    "short_id": "ce"
+                }
+            }
+        },
+        {
+            "tag": "🇦🇪AE | 🟢 | vless | 3YED | 3",
             "type": "vless",
             "server": "176.223.66.70",
             "server_port": 2003,
