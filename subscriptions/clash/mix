@@ -164,7 +164,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"45.130.125.160","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"185.137.157.250","port":443,"udp":false,"password":"n-S5Kuz58YgwljisuLEJltip2OWf1ourWz","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"fra250.clientfirewall.click"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"193.148.19.210","port":52794,"udp":false,"password":"2eutknankxtbgkwcajzt","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.vk.com"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 2","type":"trojan","server":"104.16.174.12","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 3","type":"trojan","server":"104.16.174.12","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 9","type":"vmess","server":"172.233.17.76","port":"22324","cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 0","type":"trojan","server":"216.24.57.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 3","type":"vmess","server":"digi21.ez0535.com","port":"443","cipher":"auto","uuid":"b5406cd3-1a11-4c78-b346-7763fcc9e476","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -234,7 +234,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 2'
+      - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🟢 | vmess | 3YED | 9'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 3'
@@ -304,7 +304,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 2'
+      - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🟢 | vmess | 3YED | 9'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 3'
@@ -373,7 +373,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 2'
+      - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🟢 | vmess | 3YED | 9'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | vmess | 3YED | 3'
