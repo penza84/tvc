@@ -143,7 +143,6 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"103.125.216.11","port":443,"udp":false,"password":"T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"37.156.45.237","port":42549,"udp":false,"password":"SoftNetConnect","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.speedtest.net"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"193.148.19.210","port":52794,"udp":false,"password":"2eutknankxtbgkwcajzt","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.vk.com"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"45.130.125.160","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -175,7 +174,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -207,7 +205,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -238,7 +235,6 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
