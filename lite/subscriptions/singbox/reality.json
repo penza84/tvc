@@ -111,6 +111,7 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 16",
                 "🇦🇪AE | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 4",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 9",
@@ -131,6 +132,7 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 16",
                 "🇦🇪AE | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 4",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 9",
@@ -303,6 +305,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI",
                     "short_id": "0bd0285f0c4f8f05"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "type": "vless",
+            "server": "www.sibzam-poshak.ir",
+            "server_port": 2082,
+            "uuid": "252e7311-477b-4713-96ec-30ee8bb5f694",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE",
+                    "short_id": "01117aa377a206"
                 }
             }
         },

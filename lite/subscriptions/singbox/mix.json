@@ -135,8 +135,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "🇩🇪DE | 🔴 | trojan | 3YED | 2",
                 "🇪🇸ES | 🔴 | trojan | 3YED | 3",
-                "🇺🇸US | 🔴 | vless | 3YED | 15",
                 "🇳🇱NL | 🟢 | vless | 3YED | 16",
+                "🇺🇸US | 🔴 | vless | 3YED | 17",
                 "🇺🇸US | 🔴 | vless | 3YED | 87",
                 "🇸🇨SC | 🔴 | vless | 3YED | 88",
                 "🇬🇧GB | 🔴 | vless | 3YED | 2",
@@ -147,8 +147,8 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | trojan | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
-                "❔XX | 🔴 | vless | 3YED | 19",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇺🇸US | 🔴 | vless | 3YED | 19",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 12",
@@ -156,7 +156,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -214,8 +214,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "🇩🇪DE | 🔴 | trojan | 3YED | 2",
                 "🇪🇸ES | 🔴 | trojan | 3YED | 3",
-                "🇺🇸US | 🔴 | vless | 3YED | 15",
                 "🇳🇱NL | 🟢 | vless | 3YED | 16",
+                "🇺🇸US | 🔴 | vless | 3YED | 17",
                 "🇺🇸US | 🔴 | vless | 3YED | 87",
                 "🇸🇨SC | 🔴 | vless | 3YED | 88",
                 "🇬🇧GB | 🔴 | vless | 3YED | 2",
@@ -226,8 +226,8 @@ https://github.com/3yed-61
                 "🇺🇸US | 🔴 | trojan | 3YED | 3",
                 "🇳🇱NL | 🟢 | vless | 3YED | 4",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
-                "❔XX | 🔴 | vless | 3YED | 19",
-                "❔XX | 🟢 | vless | 3YED | 6",
+                "🇺🇸US | 🔴 | vless | 3YED | 19",
+                "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 12",
@@ -235,7 +235,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -971,37 +971,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 15",
-            "type": "vless",
-            "server": "141.193.213.10",
-            "server_port": 443,
-            "uuid": "a321980f-54ce-432a-862a-76035b9d78ad",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "m.udemy.com.r3xxe.eu.cc",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/nl-tw",
-                "headers": {
-                    "Host": "m.udemy.com.r3xxe.eu.cc"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱NL | 🟢 | vless | 3YED | 16",
             "type": "vless",
             "server": "94.156.117.79",
@@ -1027,6 +996,37 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "XEOvGJLIn0iPDT1R71F8FCKet0XHg-NTn0sSxurlvV8",
                     "short_id": "ce"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 17",
+            "type": "vless",
+            "server": "104.18.155.229",
+            "server_port": 443,
+            "uuid": "42026ed0-7d74-4585-8e46-0fe6aa4d665a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.genflix.co.id.r3xxe.eu.cc",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/au-do",
+                "headers": {
+                    "Host": "www.genflix.co.id.r3xxe.eu.cc"
                 }
             }
         },
@@ -1284,7 +1284,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 19",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -1305,7 +1305,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "95.133.245.170",
             "server_port": 8443,
@@ -1490,17 +1490,32 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🟢 | vless | 3YED | 5",
             "type": "vless",
-            "server": "193.233.23.196",
-            "server_port": 26048,
-            "uuid": "3007b043-acdf-43a4-900e-c7c015406f89",
-            "flow": "",
+            "server": "www.sibzam-poshak.ir",
+            "server_port": 2082,
+            "uuid": "252e7311-477b-4713-96ec-30ee8bb5f694",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE",
+                    "short_id": "01117aa377a206"
+                }
             }
         },
         {
