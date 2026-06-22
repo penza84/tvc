@@ -6,6 +6,7 @@ trojan://telegram-id-privatevpns@3.69.117.42:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@63.181.146.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 13
 trojan://telegram-id-directvpn@3.69.117.42:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 12
 trojan://telegram-id-directvpn@63.181.146.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 13
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#🇩🇪DE | 🔴 | trojan | 3YED | 2
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#🇪🇸ES | 🔴 | trojan | 3YED | 3
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#🇩🇪DE | 🔴 | trojan | 3YED | 3
+trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#🇪🇸ES | 🔴 | trojan | 3YED | 4
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸US | 🔴 | trojan | 3YED | 3
+trojan://humanity@216.24.57.6:443?security=tls&sni=www.creationlong.org&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/assignment&host=www.creationlong.org#🇺🇸US | 🟢 | trojan | 3YED | 4
