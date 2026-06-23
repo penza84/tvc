@@ -109,7 +109,7 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 18",
-                "🇩🇪DE | 🟢 | vless | 3YED | 80",
+                "🇵🇱PL | 🟢 | vless | 3YED | 88",
                 "🇦🇪AE | 🟢 | vless | 3YED | 2",
                 "🇨🇭CH | 🟢 | vless | 3YED | 9",
                 "🇨🇭CH | 🟢 | vless | 3YED | 4",
@@ -134,7 +134,7 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🔴 | vless | 3YED | 0",
                 "🇳🇱NL | 🟢 | vless | 3YED | 18",
-                "🇩🇪DE | 🟢 | vless | 3YED | 80",
+                "🇵🇱PL | 🟢 | vless | 3YED | 88",
                 "🇦🇪AE | 🟢 | vless | 3YED | 2",
                 "🇨🇭CH | 🟢 | vless | 3YED | 9",
                 "🇨🇭CH | 🟢 | vless | 3YED | 4",
@@ -259,11 +259,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 80",
+            "tag": "🇵🇱PL | 🟢 | vless | 3YED | 88",
             "type": "vless",
-            "server": "ge3.pandaonline.org",
+            "server": "144.31.4.220",
             "server_port": 443,
-            "uuid": "bf038412-931e-4b18-a6a7-32d09304f333",
+            "uuid": "a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -273,17 +273,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ge3.pandaonline.org",
+                "server_name": "ads.x5.ru",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "lvFOmvUfAoLa9vgvoAQVrZtCmU-wB-HcmgCU66WCQzc",
-                    "short_id": ""
+                    "public_key": "8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho",
+                    "short_id": "2f49bccf11150ef2"
                 }
             }
         },
