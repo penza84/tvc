@@ -112,10 +112,10 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 81",
                 "🇦🇪AE | 🟢 | vless | 3YED | 2",
-                "🇬🇧GB | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 5",
+                "🇬🇧GB | 🟢 | vless | 3YED | 6",
+                "🇫🇮FI | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 11",
@@ -137,10 +137,10 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 81",
                 "🇦🇪AE | 🟢 | vless | 3YED | 2",
-                "🇬🇧GB | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 5",
+                "🇬🇧GB | 🟢 | vless | 3YED | 6",
+                "🇫🇮FI | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 11",
@@ -346,7 +346,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 8",
+            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "all20.allenshop100.ir",
             "server_port": 443,
@@ -375,11 +375,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 7",
             "type": "vless",
-            "server": "193.151.108.143",
-            "server_port": 443,
-            "uuid": "d78c12c4-6927-40b8-8550-ed9be00334da",
+            "server": "fiN-Jd.jDvpn.ShakHle.iR",
+            "server_port": 22000,
+            "uuid": "f07a3816-f527-4ce8-8d21-ada012618695",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -389,17 +389,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "shveccxc1.twilightparadox.com",
+                "server_name": "fontawesome.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "wPBLToF6GA4jIb7C7yu0UMlCXlxTV9UlEh1R-EdCzRU",
-                    "short_id": "2e5b7512fc1d69be"
+                    "public_key": "xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw",
+                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },
@@ -433,11 +433,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 7",
+            "tag": "❔XX | 🟢 | vless | 3YED | 6",
             "type": "vless",
-            "server": "37.156.45.237",
-            "server_port": 2083,
-            "uuid": "89049f79-320b-48a0-b1cf-110165cae30c",
+            "server": "193.151.108.143",
+            "server_port": 443,
+            "uuid": "d78c12c4-6927-40b8-8550-ed9be00334da",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -447,7 +447,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "shveccxc1.twilightparadox.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -456,8 +456,8 @@ https://github.com/3yed-61
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY",
-                    "short_id": "4e590fdc"
+                    "public_key": "wPBLToF6GA4jIb7C7yu0UMlCXlxTV9UlEh1R-EdCzRU",
+                    "short_id": "2e5b7512fc1d69be"
                 }
             }
         },
