@@ -108,12 +108,11 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 8",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 9",
-                "❔XX | 🟢 | vmess | 3YED | 10",
+                "🇺🇸US | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
@@ -123,12 +122,11 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
-                "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 8",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 9",
-                "❔XX | 🟢 | vmess | 3YED | 10",
+                "🇺🇸US | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -176,23 +174,6 @@ https://github.com/3yed-61
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 10",
-            "type": "vmess",
-            "server": "172.233.17.76",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
-            "security": "auto",
-            "alter_id": 0,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -322,7 +303,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 10",
             "type": "vmess",
             "server": "47.88.87.39",
             "server_port": 80,
