@@ -122,6 +122,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 12","type":"trojan","server":"35.181.236.138","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"167.68.4.199","port":2053,"udp":false,"password":"Aimer","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"epge.muarua.filegear-sg.me"}
   - {"name":"🇪🇸ES | 🔴 | trojan | 3YED | 6","type":"trojan","server":"193.148.19.210","port":52794,"udp":false,"password":"2eutknankxtbgkwcajzt","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.vk.com"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 10","type":"vmess","server":"172.233.17.76","port":"22324","cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 8","type":"vmess","server":"digi21.ez0535.com","port":"443","cipher":"auto","uuid":"b5406cd3-1a11-4c78-b346-7763fcc9e476","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
@@ -138,6 +139,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 8'
@@ -154,6 +156,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 8'
@@ -169,6 +172,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 12'
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇪🇸ES | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🟢 | vmess | 3YED | 10'
       - '❔XX | 🟢 | vmess | 3YED | 8'
