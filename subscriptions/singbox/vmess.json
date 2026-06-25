@@ -118,8 +118,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
-                "❔XX | 🟢 | vmess | 3YED | 46",
-                "❔XX | 🟢 | vmess | 3YED | 8",
+                "❔XX | 🟢 | vmess | 3YED | 52",
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
@@ -156,8 +155,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 14",
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
-                "❔XX | 🟢 | vmess | 3YED | 46",
-                "❔XX | 🟢 | vmess | 3YED | 8",
+                "❔XX | 🟢 | vmess | 3YED | 52",
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
@@ -418,38 +416,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 46",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 52",
             "type": "vmess",
             "server": "78.141.215.62",
             "server_port": 443,
             "uuid": "afd45419-cffa-4f1b-990a-511aab6ee9ab",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 8",
-            "type": "vmess",
-            "server": "digi21.ez0535.com",
-            "server_port": 443,
-            "uuid": "b5406cd3-1a11-4c78-b346-7763fcc9e476",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
