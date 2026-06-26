@@ -108,8 +108,11 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "🇨🇭CH | 🔴 | vless | 3YED | 3",
                 "🇸🇪SE | 🟢 | vless | 3YED | 4",
                 "🇳🇱NL | 🟢 | vless | 3YED | 0",
+                "🇷🇺RU | 🟢 | vless | 3YED | 0",
+                "🇱🇹LT | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -128,8 +131,11 @@ https://github.com/3yed-61
             "outbounds": [
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "🇨🇭CH | 🔴 | vless | 3YED | 3",
                 "🇸🇪SE | 🟢 | vless | 3YED | 4",
                 "🇳🇱NL | 🟢 | vless | 3YED | 0",
+                "🇷🇺RU | 🟢 | vless | 3YED | 0",
+                "🇱🇹LT | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -220,6 +226,35 @@ https://github.com/3yed-61
             }
         },
         {
+            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 3",
+            "type": "vless",
+            "server": "83.228.226.164",
+            "server_port": 2083,
+            "uuid": "89049f79-320b-48a0-b1cf-110165cae30c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY",
+                    "short_id": "4e590fdc"
+                }
+            }
+        },
+        {
             "tag": "🇸🇪SE | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "blog.matcloud.ir",
@@ -274,6 +309,64 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU",
                     "short_id": "c84f"
+                }
+            }
+        },
+        {
+            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "94.242.55.42",
+            "server_port": 443,
+            "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "enterprisekitten.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": "6ba85179e30d4fc2"
+                }
+            }
+        },
+        {
+            "tag": "🇱🇹LT | 🟢 | vless | 3YED | 4",
+            "type": "vless",
+            "server": "5.199.170.105",
+            "server_port": 443,
+            "uuid": "fd47216b-4217-4ec1-85b9-98304634a391",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "amd.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE",
+                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },

@@ -118,10 +118,10 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"15.237.161.109","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 16","type":"trojan","server":"35.157.64.242","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"15.237.161.109","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 16","type":"trojan","server":"35.157.64.242","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"13.39.209.35","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 16","type":"trojan","server":"15.237.161.109","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 15","type":"trojan","server":"13.39.209.35","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 16","type":"trojan","server":"15.237.161.109","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"151.101.1.242","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.f6r.ir"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 6","type":"trojan","server":"185.137.157.142","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
 proxy-groups:
@@ -131,9 +131,9 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
   - name: URL-TEST
@@ -143,9 +143,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
   - name: FALLBACK
@@ -154,9 +154,9 @@ proxy-groups:
     interval: 60
     proxies:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 15'
-      - '🇩🇪DE | 🟢 | trojan | 3YED | 16'
+      - '🇫🇷FR | 🟢 | trojan | 3YED | 16'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
 rules:
