@@ -107,9 +107,8 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 3",
+                "🇱🇹LT | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -127,9 +126,8 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇷🇺RU | 🟢 | vless | 3YED | 3",
+                "🇱🇹LT | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 0",
@@ -191,11 +189,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 3",
+            "tag": "🇱🇹LT | 🟢 | vless | 3YED | 1",
             "type": "vless",
-            "server": "94.242.55.42",
+            "server": "5.199.170.105",
             "server_port": 443,
-            "uuid": "8ca5cbd3-ec16-4728-bedc-2bc0d82f0922",
+            "uuid": "fd47216b-4217-4ec1-85b9-98304634a391",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -205,16 +203,16 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "enterprisekitten.com",
+                "server_name": "amd.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "public_key": "xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE",
                     "short_id": "6ba85179e30d4fc2"
                 }
             }
@@ -245,35 +243,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY",
                     "short_id": "7a3f9e2b1c8d4f6a"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
-            "type": "vless",
-            "server": "5.199.170.105",
-            "server_port": 443,
-            "uuid": "fd47216b-4217-4ec1-85b9-98304634a391",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "amd.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE",
-                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },
