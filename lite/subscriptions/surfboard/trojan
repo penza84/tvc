@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇫🇷FR | 🟢 | trojan | 3YED | 12 = trojan, 35.181.180.255, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 13 = trojan, 18.197.212.181, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇫🇷FR | 🟢 | trojan | 3YED | 12 = trojan, 35.181.180.255, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🟢 | trojan | 3YED | 13 = trojan, 18.197.212.181, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇩🇪DE | 🔴 | trojan | 3YED | 6 = trojan, 185.137.157.59, 443, password = fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX, udp-delay = true, skip-cert-verify = false, sni = www.lateralio.click, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 7 = trojan, 165.215.250.14, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmlunch.com, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 12 = trojan, 13.39.122.22, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 13 = trojan, 35.181.180.255, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 12 = trojan, 13.39.122.22, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | 3YED | 13 = trojan, 35.181.180.255, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇺🇸US | 🔴 | trojan | 3YED | 4 = trojan, 104.16.72.70, 443, password = 6c862415-30d2-4813-8e49-42e99a0bd415, udp-delay = true, skip-cert-verify = false, sni = space.byu.id.yxls.eu.cc, ws = false
+🇺🇸US | 🔴 | trojan | 3YED | 5 = trojan, 104.20.6.134, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇺🇸US | 🔴 | trojan | 3YED | 7
-URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇺🇸US | 🔴 | trojan | 3YED | 7
-FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇩🇪DE | 🟢 | trojan | 3YED | 13,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇺🇸US | 🔴 | trojan | 3YED | 7
+MANUAL = select,URL-TEST,FALLBACK,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
+URL-TEST = url-test,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
+FALLBACK = fallback,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇫🇷FR | 🟢 | trojan | 3YED | 12,🇫🇷FR | 🟢 | trojan | 3YED | 13,🇺🇸US | 🔴 | trojan | 3YED | 4,🇺🇸US | 🔴 | trojan | 3YED | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
