@@ -9,7 +9,7 @@ trojan://telegram-id-privatevpns@63.179.83.122:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@51.44.31.162:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%204
 trojan://telegram-id-privatevpns@13.39.35.91:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%205
 trojan://telegram-id-privatevpns@35.156.114.60:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%206
-trojan://telegram-id-privatevpns@3.67.22.69:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%203YED%20|%207
+trojan://telegram-id-privatevpns@3.67.22.69:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%207
 trojan://telegram-id-privatevpns@13.39.122.22:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%208
 trojan://telegram-id-privatevpns@35.181.180.255:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%209
 trojan://telegram-id-privatevpns@18.197.212.181:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2010
@@ -32,10 +32,10 @@ trojan://telegram-id-directvpn@51.102.134.204:22223?security=tls&alpn=http%2F1.1
 trojan://telegram-id-directvpn@13.39.98.83:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2012
 trojan://telegram-id-directvpn@13.37.73.8:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2013
 trojan://telegram-id-directvpn@63.184.13.176:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2014
-trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn&sni=ssl.fastly.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%200
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc&sni=space.byu.id.yxls.eu.cc&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%201
-trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%202
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?alpn=h2%2Chttp%2F1.1&sni=www.lateralio.click#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%203
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%204
-trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%205
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#🇪🇸ES%20|%20🔴%20|%20trojan%20|%203YED%20|%206
+trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%200
+trojan://Mitivpn@151.101.110.219:443?alpn=http%2F1.1&fp=chrome&host=3-mitivpn.global.ssl.fastly.net&path=%2Fde%3Dmitivpn&sni=ssl.fastly.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%201
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?host=space.byu.id.yxls.eu.cc&path=%2Fus-gllc&sni=space.byu.id.yxls.eu.cc&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%202
+trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%203
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?alpn=h2%2Chttp%2F1.1&sni=www.lateralio.click#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%204
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%205
+trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%206
