@@ -109,8 +109,8 @@
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 7",
-                "🇳🇱NL | 🟢 | vless | 3YED | 3",
+                "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 6",
@@ -187,7 +187,7 @@
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
+                "🇮🇷IR | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -211,8 +211,8 @@
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 7",
-                "🇳🇱NL | 🟢 | vless | 3YED | 3",
+                "🇷🇺RU | 🟢 | vless | 3YED | 7",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 6",
@@ -289,7 +289,7 @@
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
+                "🇮🇷IR | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 9",
@@ -448,7 +448,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 7",
+            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "89.208.86.65",
             "server_port": 443,
@@ -477,7 +477,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 3",
+            "tag": "❔XX | 🟢 | vless | 3YED | 3",
             "type": "vless",
             "server": "51.158.206.93",
             "server_port": 23576,
@@ -2766,7 +2766,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 9",
+            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 9",
             "type": "vless",
             "server": "ir.dashping2.ir",
             "server_port": 7102,
