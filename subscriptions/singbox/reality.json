@@ -170,6 +170,7 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -177,14 +178,14 @@
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🟢 | vless | 3YED | 63",
                 "❔XX | 🔴 | vless | 3YED | 64",
-                "🇫🇮FI | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 67",
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "🇷🇺RU | 🟢 | vless | 3YED | 6",
                 "🇳🇱NL | 🟢 | vless | 3YED | 8",
                 "🇮🇷IR | 🟢 | vless | 3YED | 11",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇬🇧GB | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 8",
@@ -273,6 +274,7 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -280,14 +282,14 @@
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🟢 | vless | 3YED | 63",
                 "❔XX | 🔴 | vless | 3YED | 64",
-                "🇫🇮FI | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 67",
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "🇷🇺RU | 🟢 | vless | 3YED | 6",
                 "🇳🇱NL | 🟢 | vless | 3YED | 8",
                 "🇮🇷IR | 🟢 | vless | 3YED | 11",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇬🇧GB | 🟢 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 8",
@@ -2254,6 +2256,35 @@
             }
         },
         {
+            "tag": "❔XX | 🟢 | vless | 3YED | 8",
+            "type": "vless",
+            "server": "5.75.207.247",
+            "server_port": 2360,
+            "uuid": "94b9fc22-3e10-41d6-aea5-ef412fc5b206",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.intel.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ",
+                    "short_id": "c6"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🟢 | vless | 3YED | 48",
             "type": "vless",
             "server": "57.129.53.181",
@@ -2464,7 +2495,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 67",
+            "tag": "❔XX | 🟢 | vless | 3YED | 67",
             "type": "vless",
             "server": "mail.tomandjery.eu",
             "server_port": 1001,
@@ -2652,7 +2683,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "18.194.240.61",
             "server_port": 8443,
@@ -2681,7 +2712,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
+            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "31.77.161.2",
             "server_port": 8443,
